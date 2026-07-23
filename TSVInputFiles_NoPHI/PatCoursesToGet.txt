@@ -1,0 +1,5 @@
+string	string	string
+Patient_MRN	RTCourse_Name	Patient_AnonPatID
+Pat01	1 Lt Breast	Pat01
+Pat02	1 PROSTATE	Pat02
+Pat03	1 PROST+SV	Pat03

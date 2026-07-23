@@ -1,0 +1,670 @@
+Category	Name	Address	City	State	PostalCode
+RadOnc	Michigan Medicine	1500 E Medical Center Drive	Ann Arbor	MI	48109
+Systemic	Michigan Medicine	1501 E Medical Center Drive	Ann Arbor	MI	48109
+Surgery	Michigan Medicine	1502 E Medical Center Drive	Ann Arbor	MI	48109
+Hospital	Michigan Medicine	1503 E Medical Center Drive	Ann Arbor	MI	48109
+Anonimize	Addison Branch Library	102 South Talbot Street	Addison	MI	49221
+Anonimize	Adrian Public Library	143 East Maumee Street	Adrian	MI	49221
+Anonimize	Lenawee County Library	4459 West Us 223	Adrian	MI	49221
+Anonimize	Alanson Area Public Library	7631 Burr Avenue	Alanson	MI	49706
+Anonimize	Albion District Library	501 South Superior Street	Albion	MI	49224
+Anonimize	Helena Township Public Library	8751 Helena Road	Alden	MI	49612
+Anonimize	Algonac-Clay Township Library	2011 Saint Clair River Drive	Algonac	MI	48001
+Anonimize	Allegan Public Library	331 Hubbard Street	Allegan	MI	49010
+Anonimize	Allen Park Public Library	8100 Allen Road	Allen Park	MI	48101
+Anonimize	Allendale Township Library	6175 Library Lane	Allendale	MI	49401
+Anonimize	Alma Public Library	351 North Court Street	Alma	MI	48801
+Anonimize	Almont District Library	213 West Saint Clair Street	Almont	MI	48003
+Anonimize	Alpena County Library	211 North First Avenue	Alpena	MI	49707
+Anonimize	Kent District Library - Alto	071 Linfield Ave.	Alto	MI	49302
+Anonimize	Ann Arbor District Library	343 South Fifth Avenue	Ann Arbor	MI	48104
+Anonimize	Malletts Creek Branch Library	3090 E. Eisenhower Parkway	Ann Arbor	MI	48104
+Anonimize	Pittsfield Branch Library	2359 Oak Valley Drive	Ann Arbor	MI	48104
+Anonimize	Washtenaw Library For The Blind And Physically Disabled	343 S. Fifth Ave.	Ann Arbor	MI	48104
+Anonimize	West Branch Library	2503 Jackson Avenue	Ann Arbor	MI	48104
+Anonimize	Arcadia Township Branch Library	3422 Lake St.	Arcadia	MI	49613
+Anonimize	Armada Free Public Library	73930 Church Street	Armada	MI	48005
+Anonimize	Ashley District Library	104 New Street	Ashley	MI	48806
+Anonimize	Athens Community Library	106 East Burr Oak Street	Athens	MI	49011
+Anonimize	Montmorency County Public Libraries	11901 Haymeadow	Atlanta	MI	49709
+Anonimize	Attica Township Library	4302 Peppermill Road	Attica	MI	48412
+Anonimize	Au Gres Branch Library	300 North Mackinaw	Au Gres	MI	48703
+Anonimize	Auburn Hills Public Library	3400 East Seyburn Drive	Auburn Hills	MI	48326
+Anonimize	Augusta-Ross Township District Library	105 South Webster Street	Augusta	MI	49012
+Anonimize	Bad Axe Area District Library	200 South Hanselman Street	Bad Axe	MI	48413
+Anonimize	Pathfinder Community Library	812 Michigan Avenue	Baldwin	MI	49304
+Anonimize	Shiawassee Township Library	625 Grand River Road	Bancroft	MI	48414
+Anonimize	Bangor Branch Library	420 Division Street	Bangor	MI	49013
+Anonimize	Barryton Public Library	198 Northern Avenue	Barryton	MI	49305
+Anonimize	Willard Public Library	7 West Van Buren Street	Battle Creek	MI	49017
+Anonimize	Bay City Branch Library	708 Center Avenue	Bay City	MI	48708
+Anonimize	Bay County Library System	500 Center Avenue	Bay City	MI	48708
+Anonimize	Sage Branch Library	4101 East Wilder Road	Bay City	MI	48708
+Anonimize	South Side Branch Library	311 Lafayette Avenue	Bay City	MI	48708
+Anonimize	Keddie-Norconk Memorial Library	12325 Virginia Street	Bear Lake	MI	48708
+Anonimize	Beaver Island District Library	26400 Donegal Bay Road	Beaver Island	MI	49782
+Anonimize	Beaverton Branch Library	128 West Saginaw Street	Beaverton	MI	48612
+Anonimize	Alvah N. Belding Memorial Library	302 East Main Street	Belding	MI	48809
+Anonimize	Bellaire Public Library	111 South Bridge Street	Bellaire	MI	49615
+Anonimize	Fred C. Fischer Public Library	167 Fourth Street	Belleville	MI	48111
+Anonimize	Bellevue Township Library	212 North Main Street	Bellevue	MI	49021
+Anonimize	Benton Harbor Public Library	213 East Wall Street	Benton Harbor	MI	49022
+Anonimize	Benzonia Public Library	891 Michigan Avenue	Benzonia	MI	49616
+Anonimize	Berkley Public Library	3155 Coolidge Highway	Berkley	MI	48072
+Anonimize	Berrien Springs Community Library	215 West Union Street	Berrien Springs	MI	49103
+Anonimize	Bessemer Public Library	411 South Sophie Street	Bessemer	MI	49911
+Anonimize	Darcy Library Of Beulah	7238 Commercial Street	Beulah	MI	49617
+Anonimize	Big Rapids Community Library	426 South Michigan Avenue	Big Rapids	MI	49307
+Anonimize	Thomas E. Fleschner Memorial Library	11935 Silver Creek Drive	Birch Run	MI	48415
+Anonimize	Baldwin Public Library	300 West Merrill Street	Birmingham	MI	48009
+Anonimize	Rolland Township Branch Library	430 Harry Street	Blanchard	MI	49310
+Anonimize	Schultz-Holmes Library	407 South Lane Street	Blissfield	MI	
+Anonimize	Bloomfield Township Public Library	1099 Lone Pine Road	Bloomfield Hills	MI	48302
+Anonimize	Bloomingdale Branch Library	109 East Kalamazoo Avenue	Bloomingdale	MI	
+Anonimize	Boyne District Library	201 East Main Street	Boyne City	MI	49712
+Anonimize	Boyne Falls Branch Library	2290 Railroad Street	Boyne Falls	MI	
+Anonimize	Howe Memorial Library	128 East Saginaw Street	Breckenridge	MI	48615
+Anonimize	Bridgman Public Library	4460 Lake Street	Bridgman	MI	49106
+Anonimize	Brighton District Library	100 Library Drive	Brighton	MI	48116
+Anonimize	Britton Branch Library	120 College Avenue	Britton	MI	
+Anonimize	Bronson Branch Library	207 North Matteson Road	Bronson	MI	
+Anonimize	Brooklyn Branch Library	207 North Main	Brooklyn	MI	
+Anonimize	Brown City Public Library	4207 Main Street	Brown City	MI	48416
+Anonimize	Buchanan District Library	128 East Front Street	Buchanan	MI	49107
+Anonimize	Buckley Branch Library	305 South First Street	Buckley	MI	
+Anonimize	Burlington Township Library	135 Elm Street	Burlington	MI	49029
+Anonimize	Salem Township Library	3007 142nd Ave	Burnips	MI	49314
+Anonimize	Burr Oak Township Library	220 South Second Street	Burr Oak	MI	49030
+Anonimize	Taymouth Township Library	2361 East Burt Road	Burt	MI	48417
+Anonimize	Baker Park Library	3410 South Grand Traverse	Burton	MI	
+Anonimize	Burton Memorial Library		Burton	MI	
+Anonimize	Byron Community Library	312 West Maple	Byron	MI	
+Anonimize	Kent District Library - Byron Township	8191 Byron Center Ave Sw	Byron Center	MI	
+Anonimize	Cadillac-Wexford Public Library	411 South Lake Street	Cadillac	MI	49601
+Anonimize	Kent District Library - Caledonia Township	6260 92nd St. Se	Caledonia	MI	49316
+Anonimize	Calumet Public-School Library	57070 Mine Street	Calumet	MI	49913
+Anonimize	Camden Township Library	119 South Main Street	Camden	MI	49232
+Anonimize	Canton Public Library	1200 South Canton Center Road	Canton	MI	48188
+Anonimize	Capac Public Library	111 North Main Street	Capac	MI	
+Anonimize	Carleton Branch Library	1444 Kent Street	Carleton	MI	
+Anonimize	Caro Area District Library	840 West Frank Street	Caro	MI	48723
+Anonimize	Carson City Public Library	102 West Main Street	Carson City	MI	48811
+Anonimize	Rawson Memorial District Library	6495 Pine Street	Cass City	MI	48726
+Anonimize	Cass District Library	319 M-62	Cassopolis	MI	49031
+Anonimize	Local History Branch Library	145 North Broadway	Cassopolis	MI	
+Anonimize	Cedar Springs Public Library	43 West Cherry Street	Cedar Springs	MI	49319
+Anonimize	Les Cheneaux Community Library	75 East Hodeck Street	Cedarville	MI	
+Anonimize	Center Line Public Library	7345 Weingartz Street	Center Line	MI	48015
+Anonimize	Central Lake District Library	7900 Maple Street	Central Lake	MI	49622
+Anonimize	Nottawa Township Library	685 East Main Street	Centreville	MI	49032
+Anonimize	Charlevoix Public Library	220 West Clinton Street	Charlevoix	MI	49720
+Anonimize	Charlotte Community Library	226 South Bostwick Street	Charlotte	MI	48813
+Anonimize	Chase Township Public Library	8400 East North Street	Chase	MI	49623
+Anonimize	Cheboygan Area Public Library	100 South Bailey Street	Cheboygan	MI	49721
+Anonimize	Chelsea District Library	221 South Main Street	Chelsea	MI	48118
+Anonimize	Chesaning Public Library	227 East Broad Street	Chesaning	MI	48616
+Anonimize	Chesterfield Township Library	50560 Patricia Avenue	Chesterfield	MI	48051
+Anonimize	Garfield Memorial Library	101 East Fourth Street	Clare	MI	
+Anonimize	Pere Marquette District Library	185 East Fourth Street	Clare	MI	48617
+Anonimize	Independence Township Library	6495 Clarkston Road	Clarkston	MI	48346
+Anonimize	Clarksville Area Library	200 Main Street	Clarksville	MI	
+Anonimize	Blair Memorial Library	416 North Main Street	Clawson	MI	48017
+Anonimize	Clayton Branch Library	"11029 Center Street,"	Clayton	MI	
+Anonimize	Clifford Branch Library	9530 Main Street	Clifford	MI	
+Anonimize	Lawrence Memorial Public Library	107 North Main Street	Climax	MI	49034
+Anonimize	Clinton Township Public Library	100 Brown Street	Clinton	MI	49236
+Anonimize	Clinton-Macomb Public Library	40900 Romeo Plank Road	Clinton Township	MI	48038
+Anonimize	Macomb County Library	16480 Hall Road	Clinton Township	MI	48038
+Anonimize	South Branch	35891 Gratiot	Clinton Township	MI	
+Anonimize	Clio Area Library		Clio	MI	
+Anonimize	Branch District Library	10 East Chicago Street	Coldwater	MI	49036
+Anonimize	Coleman Area Library	111 First Street	Coleman	MI	48618
+Anonimize	Coloma Public Library	151 West Center Street	Coloma	MI	49038
+Anonimize	Colon Township Library	128 South Blackstone Avenue	Colon	MI	49040
+Anonimize	Columbiaville Branch Library	4718 First Street	Columbiaville	MI	
+Anonimize	Commerce Township Community Library	2869 North Pontiac Trail	Commerce Township	MI	48390
+Anonimize	Kent District Library - Alpine Township	5255 Alpine Ave. Nw	Comstock Park	MI	49321
+Anonimize	Concord Branch Library	110 Hanover Street	Concord	MI	
+Anonimize	Constantine Township Library	165 Canaris Street	Constantine	MI	49042
+Anonimize	Northeast Ottawa District Library	333 Ottawa Street	Coopersville	MI	49404
+Anonimize	Community District Library	231 North Shiawassee Street	Corunna	MI	48817
+Anonimize	Corunna Public Library	401 North Shiawassee Street	Corunna	MI	
+Anonimize	Shiawassee County Library	701 South Norton Street	Corunna	MI	
+Anonimize	Covert Branch Library	33805 M-140 Highway	Covert	MI	
+Anonimize	Aitkin Memorial District Library	111 North Howard Avenue	Croswell	MI	48422
+Anonimize	Crystal Community Library	221 South Lake Street	Crystal	MI	
+Anonimize	Crystal Falls District Community Library	237 Superior Avenue	Crystal Falls	MI	49920
+Anonimize	Dansville Branch	1379 East Mason Street	Dansville	MI	
+Anonimize	Springfield Township Library	12000 Davisburg Road	Davisburg	MI	48350
+Anonimize	Davison Area Library	203 East Fourth Street	Davison	MI	
+Anonimize	Bryant Branch Library	22100 Michigan Avenue	Dearborn	MI	
+Anonimize	Dearborn Public Library	16301 Michigan Avenue	Dearborn	MI	48126
+Anonimize	Esper Branch Library	12929 West Warren Avenue	Dearborn	MI	
+Anonimize	Snow Branch Library	23950 Princeton Street	Dearborn	MI	
+Anonimize	Dearborn Heights City Libraries	24590 George Street	Dearborn Heights	MI	48127
+Anonimize	"John F. Kennedy, Jr. Library"	24602 Van Born Road	Dearborn Heights	MI	
+Anonimize	Van Buren District Library	200 North Phelps Street	Decatur	MI	49045
+Anonimize	Deckerville Public Library	3542 North Main Street	Deckerville	MI	48427
+Anonimize	Roberts-Ingold Memorial Library	170 Raisin Street	Deerfield	MI	
+Anonimize	Delton District Library	330 North Grove Street	Delton	MI	49046
+Anonimize	Detour Area School And Public Library	202 South Division Street	Detour Village	MI	49725
+Anonimize	Detroit Public Library	5201 Woodward Avenue	Detroit	MI	48202
+Anonimize	Detroit Public Library - Bowen	3648 West Vernor Highway	Detroit	MI	48216
+Anonimize	Detroit Public Library - Campbell	8733 W. Vernor	Detroit	MI	48209
+Anonimize	Detroit Public Library - Chandler Park	12800 Harper Avenue	Detroit	MI	48213
+Anonimize	Detroit Public Library - Chaney	16101 Grand River Avenue	Detroit	MI	48227
+Anonimize	Detroit Public Library - Chase	17731 West Seven Mile Road	Detroit	MI	48235
+Anonimize	Detroit Public Library - Conely	4600 Martin Street	Detroit	MI	48210
+Anonimize	Detroit Public Library - Douglass Branch For Specialized Services	3666 Grand River Avenue	Detroit	MI	48208
+Anonimize	Detroit Public Library - Duffield	2507 West Grand Boulevard	Detroit	MI	48208
+Anonimize	Detroit Public Library - Edison	18400 Joy Road	Detroit	MI	48228
+Anonimize	Detroit Public Library - Elmwood Park	550 Chene Street	Detroit	MI	48207
+Anonimize	Detroit Public Library - Franklin	13651 East Mcnichols Road	Detroit	MI	48205
+Anonimize	Detroit Public Library - Hubbard	12929 West Mcnichols Road	Detroit	MI	48235
+Anonimize	Detroit Public Library - Jefferson	12350 East Outer Drive	Detroit	MI	48224
+Anonimize	Detroit Public Library - Knapp	13330 Conant Street	Detroit	MI	48212
+Anonimize	Detroit Public Library - Mark Twain Annex	4741 Iroquis Street	Detroit	MI	48214
+Anonimize	Detroit Public Library - Montieth	14100 Kercheval Street	Detroit	MI	48215
+Anonimize	Detroit Public Library - Municipal Reference Library	5201 Woodward Avenue	Detroit	MI	48202
+Anonimize	Detroit Public Library - National Automotive History Collection	121 Gratiot	Detroit	MI	48226
+Anonimize	Detroit Public Library - Parkman	1766 Oakman Boulevard	Detroit	MI	48238
+Anonimize	Detroit Public Library - Redford	21200 Grand River	Detroit	MI	48219
+Anonimize	Detroit Public Library - Sherwood Forest	7117 West Seven Mile Road	Detroit	MI	48221
+Anonimize	Detroit Public Library - Skillman	121 Gratiot Avenue	Detroit	MI	48226
+Anonimize	Detroit Public Library - Wilder	7140 East Seven Mile Road	Detroit	MI	48234
+Anonimize	Dewitt Public Library	13101 Schavey Road	Dewitt	MI	48820
+Anonimize	Dexter District Library	8040 Fourth Street	Dexter	MI	48130
+Anonimize	Dorothy Hull Library - Windsor Township	405 West Jefferson Street	Dimondale	MI	48821
+Anonimize	Osceola Township School Public Library	48475 North Maple Drive	Dollar Bay	MI	49922
+Anonimize	Dorr Township Library	1804 Sunset Drive	Dorr	MI	49323
+Anonimize	Saugatuck-Douglas District Library	10 Mixer Street	Douglas	MI	49406
+Anonimize	Dowagiac District Library	211 Commercial Street	Dowagiac	MI	49047
+Anonimize	Drummond Island Library	29934 East Court Street	Drummond Island	MI	
+Anonimize	Dryden Township Library	5480 Main Street	Dryden	MI	48428
+Anonimize	Dundee Branch Library	144 East Main Street	Dundee	MI	
+Anonimize	Durand Memorial Branch Library	700 North Saginaw Street	Durand	MI	
+Anonimize	Kent District Library - East Grand Rapids	746 Lakeside Dr. Se	East Grand Rapids	MI	49506
+Anonimize	Jordan Valley District Library	103 Maple Street	East Jordan	MI	49727
+Anonimize	East Lansing Public Library	950 Abbot Road	East Lansing	MI	48823
+Anonimize	East Tawas Branch Library	204 Sawyer Street	East Tawas	MI	
+Anonimize	Iosco-Arenac District Library	120 West Westover Street	East Tawas	MI	48730
+Anonimize	Eastpointe Memorial Library	15875 Oak Avenue	Eastpointe	MI	48021
+Anonimize	Eaton Rapids Public Library	220 South Main Street	Eaton Rapids	MI	48827
+Anonimize	Eau Claire District Library	6528 East Main Street	Eau Claire	MI	49111
+Anonimize	Ecorse Public Library	4184 West Jefferson	Ecorse	MI	
+Anonimize	Home Township Library	329 East Main Street	Edmore	MI	48829
+Anonimize	Edwardsburg Branch Library	26745 Church Street	Edwardsburg	MI	
+Anonimize	Mason-Union Branch Library	17049 U.S. Hwy. 12 East	Edwardsburg	MI	
+Anonimize	Elk Rapids District Library	300 Isle Of Pines	Elk Rapids	MI	49629
+Anonimize	Elsie Public Library	145 West Main Street	Elsie	MI	48831
+Anonimize	Glen Lake Community Library	10115 West Front Street	Empire	MI	49630
+Anonimize	Engadine Library	box 1	Engadine	MI	
+Anonimize	Erie Branch Library	2065 Erie Road	Erie	MI	
+Anonimize	Escanaba Public Library	400 Ludington Street	Escanaba	MI	49829
+Anonimize	Evart Public Library	104 North Main Street	Evart	MI	49631
+Anonimize	Mcmillan Township Library	200 Cedar Street	Ewen	MI	49925
+Anonimize	Ira Township Library	7013 Meldrum Road	Fair Haven	MI	
+Anonimize	Fairgrove District Library	1959 Main Street	Fairgrove	MI	48733
+Anonimize	Falmouth Area Library	219 East Prosper Road	Falmouth	MI	49632
+Anonimize	Farmington Branch Library	23500 Liberty Street	Farmington	MI	
+Anonimize	Farmington Community Library	32737 West 12 Mile Road	Farmington Hills	MI	48334
+Anonimize	Surrey Township Public Library	105 East Michigan Street	Farwell	MI	48622
+Anonimize	North Dickinson Branch		Felch	MI	
+Anonimize	Fennville District Library	400 West Main Street	Fennville	MI	49408
+Anonimize	Fenton Childrens Center	200 East Caroline Street	Fenton	MI	
+Anonimize	Fenton-Jack R. Winegarden Library	200 East Caroline Street	Fenton	MI	
+Anonimize	Palo Community School District Public Library	8315 Mill Street	Fenwick	MI	48870
+Anonimize	Ferndale Public Library	222 East Nine Mile Road	Ferndale	MI	48220
+Anonimize	Royal Oak Township Public Library	21131 Garden Lane	Ferndale	MI	48220
+Anonimize	Fife Lake Public Library	77 Lakecrest Lane	Fife Lake	MI	49633
+Anonimize	Flat Rock Public Library	25200 Gibraltar Road	Flat Rock	MI	48134
+Anonimize	Beecher Vera B. Rison Library	1386 West Coldwater Road	Flint	MI	
+Anonimize	Flint District Library	1026 East Kearsley Street	Flint	MI	48503
+Anonimize	Flint Township-Mccarty Library	2071 South Graham Road	Flint	MI	
+Anonimize	Genesee District Library		Flint	MI	48504
+Anonimize	Genesee Valley Demonstration Location	3517 South Linden Road	Flint	MI	
+Anonimize	Flushing Area Library	120 North Maple Street	Flushing	MI	
+Anonimize	Watertown Township Library	9405 Foster Street	Fostoria	MI	48435
+Anonimize	Fowlerville District Library	131 Mill Street	Fowlerville	MI	48836
+Anonimize	James E. Wickson Memorial Library	359 South Franklin Street	Frankenmuth	MI	48734
+Anonimize	Benzie Shores District Library	630 Main Street	Frankfort	MI	49635
+Anonimize	Franklin Public Library	32455 Franklin Road	Franklin	MI	48025
+Anonimize	Fraser Public Library	16330 East Fourteen Mile Road	Fraser	MI	48026
+Anonimize	Frederic Community Library	6872 Old 27	Frederic	MI	
+Anonimize	Freeport District Library	208 South State Street	Freeport	MI	49325
+Anonimize	Fremont Area District Library	104 East Main Street	Fremont	MI	49412
+Anonimize	Fruitport Branch Library		Fruitport	MI	
+Anonimize	Gaines Station Library	103 East Walker	Gaines	MI	
+Anonimize	Galesburg Memorial Library	188 East Michigan Avenue	Galesburg	MI	49053
+Anonimize	Galien Township Public Library	302 North Cleveland Avenue	Galien	MI	49113
+Anonimize	Garden City Public Library	31735 Maplewood Street	Garden City	MI	48135
+Anonimize	Otsego County Library	700 South Otsego Avenue	Gaylord	MI	49735
+Anonimize	Genesee Township-Johnson Memorial Library	7397 North Genesee Road	Genesee	MI	
+Anonimize	Gladstone Area School Public Library	300 South Tenth Street	Gladstone	MI	49837
+Anonimize	Gladwin County District Library	402 James Robertson Drive	Gladwin	MI	48624
+Anonimize	Curtis Township Library	4884 Bamfield Road	Glennie	MI	48737
+Anonimize	Gobles Branch Library	105 East Main	Gobles	MI	
+Anonimize	Goodrich Library	10237 Hegel Road	Goodrich	MI	
+Anonimize	Kent District Library - Spencer Township	14960 Meddler Avenue	Gowen	MI	49326
+Anonimize	Grand Blanc-Mcfarlen Library	515 Perry Road	Grand Blanc	MI	
+Anonimize	Loutit District Library	407 Columbus Avenue	Grand Haven	MI	49417
+Anonimize	Grand Ledge Area District Library	131 East Jefferson Street	Grand Ledge	MI	48837
+Anonimize	Grand Ledge Area District Library At Wacousta	13080 Wacousta Road	Grand Ledge	MI	
+Anonimize	Grand Rapids Public Library	"111 Library Street, Ne"	Grand Rapids	MI	49503
+Anonimize	Kent District Library - Cascade Township	"2870 Jacksmith Ave., Se"	Grand Rapids	MI	49546
+Anonimize	Kent District Library - Gaines Township	421 68th Street Se	Grand Rapids	MI	49548
+Anonimize	Kent District Library - Plainfield	2650 Five Mile Road Ne	Grand Rapids	MI	49525
+Anonimize	Madison Square Branch Library	1201 Madison Se	Grand Rapids	MI	
+Anonimize	Ottawa Hills Branch Library	1150 Giddings Avenue Se	Grand Rapids	MI	
+Anonimize	Seymour Branch Library	2350 Eastern Avenue Se	Grand Rapids	MI	
+Anonimize	Vanbelkum Branch At Creston	1563 Plainfield Ne	Grand Rapids	MI	
+Anonimize	West Leonard Branch	1017 Leonard Nw	Grand Rapids	MI	
+Anonimize	West Side Branch Library	713 Bridge Street Nw	Grand Rapids	MI	
+Anonimize	Yankee Clipper Branch Library	2025 Leonard Street Ne	Grand Rapids	MI	
+Anonimize	Kent District Library - Grandville	4055 Maple Street Sw	Grandville	MI	49418
+Anonimize	Grant Area District Library	122 Elder Street	Grant	MI	49327
+Anonimize	Grass Lake Branch Library	130 West Michigan	Grass Lake	MI	
+Anonimize	Beaver Creek Township Library	8888 South Grayling Road	Grayling	MI	
+Anonimize	Crawford County Library	201 Plum Street	Grayling	MI	49738
+Anonimize	Lovells Township Library	8405 Twin Bridge Road	Grayling	MI	
+Anonimize	Flat River Community Library	200 West Judd Street	Greenville	MI	48838
+Anonimize	Grosse Pointe Public Library	10 Kercheval Avenue	Grosse Pointe Farms	MI	48236
+Anonimize	Grosse Pointe Park Public Library	15430 Kercheval Street	Grosse Pointe Park	MI	
+Anonimize	Grosse Pointe Woods Public Library	20600 Mack Avenue	Grosse Pointe Woods	MI	
+Anonimize	Forsyth Township Public Library	184 West Flint Street	Gwinn	MI	49841
+Anonimize	Hadley Branch Library	3556 Hadley Road	Hadley	MI	
+Anonimize	Plainfield Township Branch Library	220 North Washington	Hale	MI	
+Anonimize	Hamburg Township Library	10411 Merrill Road	Hamburg	MI	48139
+Anonimize	Hamtramck Public Library	2360 Caniff Avenue	Hamtramck	MI	48212
+Anonimize	Hancock School Public Library	501 Campus Drive	Hancock	MI	49930
+Anonimize	Hanover Branch Library	118 West Main Street	Hanover	MI	
+Anonimize	Harbor Beach Area District Library	105 North Huron Avenue	Harbor Beach	MI	48441
+Anonimize	Harper Woods Public Library	19601 Harper Avenue	Harper Woods	MI	48225
+Anonimize	Harrison District Library	105 East Main Street	Harrison	MI	48625
+Anonimize	Alcona County Library	312 West Main (M-72)	Harrisville	MI	48740
+Anonimize	Hart Area Public Library	415 South State Street	Hart	MI	49420
+Anonimize	Hartford Public Library	15 Franklin Street	Hartford	MI	49057
+Anonimize	Cromaine District Library	3688 North Hartland Road	Hartland	MI	48353
+Anonimize	Haslett Branch	5670 School Street	Haslett	MI	
+Anonimize	Dowling Public Library	1765 East Dowling Road	Hastings	MI	49058
+Anonimize	Hastings Public Library	227 East State Street	Hastings	MI	49058
+Anonimize	Hazel Park Memorial Library	123 East Nine Mile Road	Hazel Park	MI	48030
+Anonimize	Rauchholz Memorial Library	1140 North Hemlock Road	Hemlock	MI	48626
+Anonimize	Hermansville Branch Library		Hermansville	MI	
+Anonimize	Hesperia Community Library	80 South Division Street	Hesperia	MI	49421
+Anonimize	Lyon Township Branch Library	"7851 W. Higgins Lake Drive, P.O. Bo"	Higgins Lake	MI	
+Anonimize	Highland Township Public Library	444 Beach Farm Circle	Highland	MI	48356
+Anonimize	Hillman-Wright Memorial Library	p.o. box 247	Hillman	MI	
+Anonimize	Hillsdale Community Library	11 East Bacon Street	Hillsdale	MI	49242
+Anonimize	Herrick District Library	300 South River Avenue	Holland	MI	49423
+Anonimize	North Side Branch	155 Riley Street	Holland	MI	
+Anonimize	Holly Township Library	1116 North Saginaw Street	Holly	MI	48442
+Anonimize	Holt-Delhi Branch	2078 Aurelius Road	Holt	MI	
+Anonimize	Holton Branch Library	8776 Holton-Duck Lake Road	Holton	MI	
+Anonimize	Homer Public Library	141 West Main Street	Homer	MI	49245
+Anonimize	Hopkins Public Library	118 East Main Street	Hopkins	MI	49328
+Anonimize	Portage Lake District Library	58 Huron Street	Houghton	MI	49931
+Anonimize	Houghton Lake Public Library	4431 West Houghton Lake Drive	Houghton Lake	MI	48629
+Anonimize	Reynolds Township Library	215 East Edgerton Street	Howard City	MI	
+Anonimize	Timothy C. Hauenstein Reynolds Township Library	117 West Williams Street	Howard City	MI	49329
+Anonimize	Howell Carnegie District Library	314 West Grand River Avenue	Howell	MI	48843
+Anonimize	Caledonia Branch Library	1499 Hubert Road	Hubbard Lake	MI	
+Anonimize	Hudson Public Library	205 South Market Street	Hudson	MI	49247
+Anonimize	Gary Byker Memorial Library Of Hudsonville	3338 Van Buren Street	Hudsonville	MI	49426
+Anonimize	Huntington Woods Public Library	26415 Scotia Road	Huntington Woods	MI	48070
+Anonimize	Ida Branch Library	3016 Lewis Avenue	Ida	MI	
+Anonimize	Idlewild Public Library	473 East Baldwin Road	Idlewild	MI	49642
+Anonimize	Goodland Branch Library	2370 North Van Dyke Road	Imlay City	MI	
+Anonimize	Ruth Hughes Memorial District Library	211 North Almont Avenue	Imlay City	MI	48444
+Anonimize	Indian River Area Library	3546 South Straits Highway	Indian River	MI	49749
+Anonimize	Inkster Public Library	2005 Inkster Road	Inkster	MI	
+Anonimize	Interlochen Public Library	9700 Riley Road	Interlochen	MI	49643
+Anonimize	Hall-Fowler Memorial Library	126 East Main Street	Ionia	MI	48846
+Anonimize	Ionia Community Library	126 East Main Street	Ionia	MI	48846
+Anonimize	Dickinson County Library	401 Iron Mountain Street	Iron Mountain	MI	49801
+Anonimize	West Iron District Library	116 West Genesee Street	Iron River	MI	49935
+Anonimize	Ironwood Carnegie Library	235 East Aurora Street	Ironwood	MI	49938
+Anonimize	Ishpeming Carnegie Public Library	317 North Main Street	Ishpeming	MI	49849
+Anonimize	Thompson Home Public Library	125 West Center Street	Ithaca	MI	48847
+Anonimize	Eastern Branch Library	3125 East Michigan Avenue	Jackson	MI	
+Anonimize	Jackson District Library	244 West Michigan Avenue	Jackson	MI	49201
+Anonimize	Meijer Branch Library	2699 Airport Road	Jackson	MI	
+Anonimize	Summit Branch Library	104 Bird Avenue	Jackson	MI	
+Anonimize	Patmos Library	2445 Riley Street	Jamestown	MI	49427
+Anonimize	Georgetown Township Public Library	1525 Baldwin Street	Jenison	MI	49428
+Anonimize	Johannesburg Branch Library	10900 East M-32	Johannesburg	MI	
+Anonimize	Jonesville District Library	310 Church Street	Jonesville	MI	49250
+Anonimize	Alma Powell Branch Library	1000 West Paterson Street	Kalamazoo	MI	
+Anonimize	Eastwood Branch Library	1112 Gayle Avenue	Kalamazoo	MI	
+Anonimize	Kalamazoo Public Library	315 South Rose Street	Kalamazoo	MI	49007
+Anonimize	Oshtemo Branch Library	7265 West Main Street	Kalamazoo	MI	
+Anonimize	Washington Square Branch Library	1244 Portage Street	Kalamazoo	MI	
+Anonimize	Kaleva Branch Library	9200 Aura Street	Kaleva	MI	
+Anonimize	Kalkaska County Library	247 South Cedar Street	Kalkaska	MI	49646
+Anonimize	Kent District Library -Tyrone Township	43 South Main Street	Kent City	MI	49330
+Anonimize	Kent District Library - Kentwood	4700 Kalamazoo Avenue Se	Kentwood	MI	49508
+Anonimize	G. Lynn Campbell Township Library	1955 North Allen Road	Kimball	MI	
+Anonimize	Rj Wallis Elementary Library	15901 Country Club Road	Kincheloe	MI	
+Anonimize	Kingsley Public Library Branch	104 South Brownson Avenue	Kingsley	MI	
+Anonimize	Jacquelin E. Opperman Memorial Library	5790 State Street	Kingston	MI	48741
+Anonimize	Laingsburg Public Library	255 East Grand River Road	Laingsburg	MI	48848
+Anonimize	Missaukee District Library	210 South Canal Street	Lake City	MI	49651
+Anonimize	Lake Linden-Hubbell School Public Library	601 Calumet Street	Lake Linden	MI	49945
+Anonimize	Lake Odessa Community Library	1007 Fourth Avenue	Lake Odessa	MI	48849
+Anonimize	Orion Township Public Library	825 Joslyn Road	Lake Orion	MI	48362
+Anonimize	Lakeport Book Deposit	7097 Second Street	Lakeport	MI	
+Anonimize	Tamarack District Library	832 South Lincoln Avenue	Lakeview	MI	48850
+Anonimize	Lanse Area School-Public Library	201 North 4th Street	Lanse	MI	49946
+Anonimize	Capital Area District Library	401 South Capitol Avenue	Lansing	MI	48933
+Anonimize	Delta Township District Library	5130 Davenport Drive	Lansing	MI	48917
+Anonimize	Foster Branch	200 North Foster Avenue	Lansing	MI	
+Anonimize	South Lansing Branch	"3500 South Cedar Street, Suite 108"	Lansing	MI	
+Anonimize	Elba Branch Library	5508 Davison Road	Lapeer	MI	
+Anonimize	Lapeer District Library	201 Village West Drive South	Lapeer	MI	48446
+Anonimize	Marguerite De Angeli Branch Library	921 West Nepessing Street	Lapeer	MI	
+Anonimize	Lawrence Branch Library	122 West Saint Joseph Street	Lawrence	MI	
+Anonimize	Lawton Public Library	125 South Main Street	Lawton	MI	49065
+Anonimize	Leland Township Public Library	203 East Cedar Street	Leland	MI	49654
+Anonimize	Perkins Library Of Lennon	11904 Lennon Road	Lennon	MI	
+Anonimize	Addison Township Public Library	1400 Rochester Road	Leonard	MI	48367
+Anonimize	Leroy Community Library	104 West Gilbert Street	Leroy	MI	49655
+Anonimize	Leslie Branch	201 Pennsylvania Street	Leslie	MI	
+Anonimize	Bliss Branch Library	265 West Sturgeon Bay Trail	Levering	MI	
+Anonimize	Levering Branch Library	6236 Mill Street	Levering	MI	
+Anonimize	Lewiston Public Library	4356 Hanson Road	Lewiston	MI	
+Anonimize	Moore Public Library	7239 Huron Avenue	Lexington	MI	48450
+Anonimize	Lincoln Branch Library	330 Traverse Bay Road	Lincoln	MI	
+Anonimize	Lincoln Park Public Library	1381 Southfield Road	Lincoln Park	MI	
+Anonimize	Linden Library	p.o. box 158	Linden	MI	
+Anonimize	Litchfield District Library	108 North Chicago Street	Litchfield	MI	49252
+Anonimize	Alfred Noble Branch Library	32901 Plymouth Road	Livonia	MI	
+Anonimize	Carl Sandburg Branch Library	30100 Seven Mile Road	Livonia	MI	
+Anonimize	Livonia Public Library	32777 Five Mile Road	Livonia	MI	48154
+Anonimize	Vest Pocket Library	33000 Civic Center Dr.	Livonia	MI	
+Anonimize	Kent District Library - Englehardt	200 North Monroe	Lowell	MI	49331
+Anonimize	Mason County District Library	217 East Ludington Avenue	Ludington	MI	49431
+Anonimize	Rasey Memorial Branch Library	4349 Oak Street	Luna Pier	MI	
+Anonimize	Luther Area Public Library	115 State Street	Luther	MI	49656
+Anonimize	Lyons Township District Library	240 East Bridge Street	Lyons	MI	48851
+Anonimize	Mackinac Island Public Library	7549 Huron Street	Mackinac Island	MI	49757
+Anonimize	Mackinaw Area Public Library	528 West Central Avenue	Mackinaw City	MI	49701
+Anonimize	North Branch	16800 24 Mile Road	Macomb	MI	
+Anonimize	Madison Heights Branch Library	26550 John R Road	Madison Heights	MI	
+Anonimize	Madison Heights Public Library	240 West Thirteen Mile Road	Madison Heights	MI	48071
+Anonimize	Mancelona Township Library	202 West State Street	Mancelona	MI	49659
+Anonimize	Manchester District Library	912 City Road (M-52)	Manchester	MI	48158
+Anonimize	Manistee County Library	95 Maple Street	Manistee	MI	49660
+Anonimize	Manistique School Public Library	100 North Cedar Street	Manistique	MI	49854
+Anonimize	Manton Public Library	404 West Main Street	Manton	MI	
+Anonimize	Maple Rapids Public Library	130 South Maple Avenue	Maple Rapids	MI	48853
+Anonimize	Marcellus Township-Wood Memorial Library	205 East Main Street	Marcellus	MI	49067
+Anonimize	Marine City Public Library	300 South Parker Street	Marine City	MI	
+Anonimize	M. Alice Chapin Memorial Library	120 East Main Street	Marion	MI	49665
+Anonimize	Marlette District Library	3116 Main Street	Marlette	MI	48453
+Anonimize	Peter White Public Library	217 North Front Street	Marquette	MI	49855
+Anonimize	Marshall District Library	124 West Green Street	Marshall	MI	49068
+Anonimize	J. C. Wheeler Public Library	1576 South Main Street	Martin	MI	49070
+Anonimize	Marysville Public Library	1175 Delaware Avenue	Marysville	MI	
+Anonimize	Aurelius Branch	1939 South Aurelius Road	Mason	MI	
+Anonimize	Mason Branch	145 West Ash Street	Mason	MI	
+Anonimize	Greenland Township Library	1212 Adventure Avenue	Mass City	MI	
+Anonimize	Antwerp Sunshine Branch Library	24823 Front Street	Mattawan	MI	
+Anonimize	Maybee Branch Library	9060 Raisin Street	Maybee	MI	
+Anonimize	Mayville District Public Library	6090 Fulton Street	Mayville	MI	48744
+Anonimize	Mcbain Community Library	107 East Maple Street	Mcbain	MI	49657
+Anonimize	Morton Township Public Library	110 South James Street	Mecosta	MI	49332
+Anonimize	Melvindale Public Library	18650 Allen Road	Melvindale	MI	
+Anonimize	Memphis Public Library	34830 Potter Street	Memphis	MI	
+Anonimize	Mendon Township Library	314 West Main Street	Mendon	MI	49072
+Anonimize	Spies Public Library	940 First Street	Menominee	MI	49858
+Anonimize	Merrill District Library	321 West Saginaw	Merrill	MI	48637
+Anonimize	Mesick Public Library	207 North Eugene St.	Mesick	MI	
+Anonimize	Metamora Branch Library	4018 Oak Street	Metamora	MI	
+Anonimize	Thornapple Kellogg School And Community Library	3885 Bender Road	Middleville	MI	49333
+Anonimize	Grace A. Dow Memorial Library	1710 West Saint Andrews	Midland	MI	48640
+Anonimize	Mikado Township Library	2291 South F-41	Mikado	MI	
+Anonimize	Milan Public Library	151 Wabash Street	Milan	MI	48160
+Anonimize	Milford Public Library	330 Family Drive	Milford	MI	48381
+Anonimize	Millington Arbela District Library	8530 Depot Street	Millington	MI	48746
+Anonimize	Oscoda County Library	430 West Eighth Street	Mio	MI	48647
+Anonimize	Leighton Township Library	4451 12th Street	Moline	MI	49335
+Anonimize	Blue Bush Branch Library	2210 Blue Bush Road	Monroe	MI	
+Anonimize	Dorsch Memorial Branch Library	18 East First Street	Monroe	MI	
+Anonimize	Frenchtown-Dixie Branch Library	2881 Nadeau Road	Monroe	MI	
+Anonimize	L. S. Navarre Branch Library	1135 East Second Street	Monroe	MI	
+Anonimize	Monroe County Library System	840 South Roessler Street	Monroe	MI	48161
+Anonimize	Robert A. Vivian Branch Library	2664 Vivian Road	Monroe	MI	
+Anonimize	Montague Branch Library	8778 Ferry Street	Montague	MI	
+Anonimize	Montrose-Jennings Library	241 Feher Drive	Montrose	MI	
+Anonimize	Brevort Township Library	4009 North Church Street	Moran	MI	
+Anonimize	Stair Public Library	228 West Main Street	Morenci	MI	49256
+Anonimize	Walton Erickson Public Library	4808 Northland Drive	Morley	MI	49336
+Anonimize	Morrice Village Library	300 Main Street	Morrice	MI	
+Anonimize	Mount Clemens Public Library	150 Cass Avenue	Mount Clemens	MI	48043
+Anonimize	Mount Morris Library	685 Van Buren Avenue	Mount Morris	MI	
+Anonimize	Chippewa River District Library System	301 South University	Mount Pleasant	MI	48858
+Anonimize	Veterans Memorial Library	301 South University	Mt. Pleasant	MI	
+Anonimize	Mulliken District Library	135 Main Street	Mulliken	MI	48861
+Anonimize	Munising School Public Library	810 State Highway M-28 West Suite A	Munising	MI	49862
+Anonimize	Egelston Branch Library	5428 East Apple Avenue	Muskegon	MI	
+Anonimize	Hackley Public Library	316 West Webster Avenue	Muskegon	MI	49440
+Anonimize	Muskegon Area District Library	4845 Airline Road Unit 5	Muskegon	MI	49444
+Anonimize	North Muskegon Walker Branch Library	1522 Ruddiman	Muskegon	MI	
+Anonimize	Norton Shores Branch Library	705 Seminole Road	Muskegon	MI	
+Anonimize	Napoleon Branch Library	6755 Brooklyn Road	Napoleon	MI	
+Anonimize	Putnam District Library	327 North Main	Nashville	MI	49073
+Anonimize	Negaunee Public Library	319 West Case Street	Negaunee	MI	49866
+Anonimize	Macdonald Public Library	36480 Main Street	New Baltimore	MI	48047
+Anonimize	New Buffalo Township Public Library	33 North Thompson Street	New Buffalo	MI	49117
+Anonimize	Lenox Township Library	58976 Main Street	New Haven	MI	48048
+Anonimize	Twin Township Public-School Library	9435 Beech Street	New Lothrop	MI	
+Anonimize	Croton Branch Library	6464 Croton-Hardy Drive	Newaygo	MI	
+Anonimize	Newaygo Area District Library	44 North State Road	Newaygo	MI	49337
+Anonimize	Tahquamenon Area Public Library	700 Newberry Avenue	Newberry	MI	49868
+Anonimize	Newport Branch Library	8120 North Dixie Highway	Newport	MI	
+Anonimize	Howard Branch Library	2341 Yankee Street	Niles	MI	
+Anonimize	Niles District Library	620 East Main Street	Niles	MI	49120
+Anonimize	North Adams Community Memorial Library	110 East Main Street	North Adams	MI	49262
+Anonimize	North Branch Township Library	3714 Huron Road	North Branch	MI	48461
+Anonimize	Walker Branch Library	1522 Ruddiman Drive	North Muskegon	MI	
+Anonimize	Leelanau Township Library	119 East Nagonaba Street	Northport	MI	49670
+Anonimize	Northville District Library	212 West Cady Street	Northville	MI	48167
+Anonimize	Solomonson Branch Library	620 Section Street	Norway	MI	
+Anonimize	Novi Public Library	45245 West Ten Mile Road	Novi	MI	48375
+Anonimize	Crockery Township Library	7431 112th St.	Nunica	MI	
+Anonimize	Oak Park Public Library	14200 Oak Park Boulevard	Oak Park	MI	48237
+Anonimize	Hope Borbas Okemos Branch	4321 Okemos Road	Okemos	MI	
+Anonimize	Omer Branch Library	205 East Center Street	Omer	MI	
+Anonimize	Onaway Branch Library	20774 State Street	Onaway	MI	
+Anonimize	Onekama Branch Library	5283 Main Street	Onekama	MI	
+Anonimize	Luella Reynolds-Onsted Community Library	261 South Main Street	Onsted	MI	
+Anonimize	Ontonagon Township Library	311 North Steel Street	Ontonagon	MI	49953
+Anonimize	Brandon Township Public Library	304 South Street	Ortonville	MI	48462
+Anonimize	Robert J. Parks Library	6010 Skeel Street	Oscoda	MI	
+Anonimize	Forest Township Library	123 West Main Street	Otisville	MI	
+Anonimize	Otsego District Public Library	219 South Farmer Street	Otsego	MI	49078
+Anonimize	Otter Lake Branch Library	6361 Detroit Street	Otter Lake	MI	
+Anonimize	Ovid Public Library	206 North Main Street	Ovid	MI	48866
+Anonimize	Shiawassee District Library	502 West Main Street	Owosso	MI	48867
+Anonimize	Oxford Public Library	530 Pontiac Road	Oxford	MI	48371
+Anonimize	Richmond Township Library	500 Smith Street	Palmer	MI	49871
+Anonimize	Whitefish Township Community Library	7247 North M-123	Paradise	MI	49768
+Anonimize	Parchment Community Library	401 South Riverview Drive	Parchment	MI	49004
+Anonimize	Parma Branch Library	102 Church Street	Parma	MI	
+Anonimize	Paw Paw District Library	609 West Michigan Avenue	Paw Paw	MI	49079
+Anonimize	Elk Township Library	29 East Lapeer Street	Peck	MI	48466
+Anonimize	Pellston Branch Library	175 N. Milton Street	Pellston	MI	
+Anonimize	Pentwater Township Library	402 East Park Street	Pentwater	MI	49449
+Anonimize	Edna C. Bentley Memorial Library	135 South Main Street	Perry	MI	
+Anonimize	Summerfield-Petersburg Branch Library	60 East Center Street	Petersburg	MI	
+Anonimize	Petoskey Public Library	500 East Mitchell Street	Petoskey	MI	49770
+Anonimize	Pigeon District Library	7236 Nitz Street	Pigeon	MI	48755
+Anonimize	Pinckney Community Public Library	125 Putnam Street	Pinckney	MI	48169
+Anonimize	Pinconning Branch Library	218 Kaiser St.	Pinconning	MI	
+Anonimize	Pittsford Public Library	9268 East Hudson Road	Pittsford	MI	49271
+Anonimize	Charles A. Ransom District Library	180 South Sherwood Avenue	Plainwell	MI	49080
+Anonimize	Henrietta Branch Library	11744 Bunkerhill Road	Pleasant Lake	MI	
+Anonimize	Plymouth District Library	223 South Main Street	Plymouth	MI	48170
+Anonimize	Oakland County Research Library	1200 North Telegraph Road	Pontiac	MI	48341
+Anonimize	Pontiac Public Library	60 East Pike Street	Pontiac	MI	48342
+Anonimize	Port Austin Township Library	114 Railroad Street	Port Austin	MI	48467
+Anonimize	Saint Clair County Library	210 Mcmorran Boulevard	Port Huron	MI	48060
+Anonimize	Sanilac District Library	7130 Main Street	Port Sanilac	MI	48469
+Anonimize	Portage District Library	300 Library Lane	Portage	MI	49002
+Anonimize	Portland District Library	334 Kent Street	Portland	MI	48875
+Anonimize	Posen Branch Library	6987 Turtle Street	Posen	MI	
+Anonimize	Potterville Benton Township District Library	150 Library Lane	Potterville	MI	48876
+Anonimize	Ogemaw East Branch Library	200 Washington	Prescott	MI	
+Anonimize	Skidway Lake Branch Library	2129 Greenwood Road	Prescott	MI	
+Anonimize	Grand Lake Branch Library	8797 East Grand Lake Road	Presque Isle	MI	
+Anonimize	Algansee Branch Library	580 South Ray Quincy Road	Quincy	MI	
+Anonimize	Quincy Branch Library	11 North Main Street	Quincy	MI	
+Anonimize	Ravenna Branch Library	12278 Stafford Street	Ravenna	MI	
+Anonimize	Ray Township Public Library	64255 Wolcott Road	Ray	MI	48096
+Anonimize	Reading Community Library	104 North Main Street	Reading	MI	49274
+Anonimize	Redford Township District Library	25320 West Six Mile Road	Redford	MI	48240
+Anonimize	Reed City Public Library	410 West Upton Avenue	Reed City	MI	49677
+Anonimize	Reese Unity District Library	2065 Gates Street	Reese	MI	48757
+Anonimize	Wheatland Township Library	207 Michigan Avenue	Remus	MI	49340
+Anonimize	Republic-Michigamme Public Library	227 Maple Street	Republic	MI	49879
+Anonimize	Richland Community Library	8951 Park Street	Richland	MI	49083
+Anonimize	Lois Wagner Memorial Library	35200 Division Road	Richmond	MI	48062
+Anonimize	Hall Memorial Library		Ridgeway	MI	
+Anonimize	River Rouge Public Library	221 Burke Street	River Rouge	MI	
+Anonimize	Seville Township Public Library	6734 Lumberjack Road	Riverdale	MI	48877
+Anonimize	Riverview Public Library	14300 Sibley Road	Riverview	MI	48193
+Anonimize	Rochester Hills Public Library	500 Olde Towne Road	Rochester	MI	48307
+Anonimize	Kent District Library - Krause Memorial	140 East Bridge Street	Rockford	MI	49341
+Anonimize	Rockland Township Library	40 National Avenue	Rockland	MI	
+Anonimize	Presque Isle District Library	181 East Erie Street	Rogers City	MI	49779
+Anonimize	Kezar Branch Library	107 Church Street	Romeo	MI	
+Anonimize	Romulus Public Library	11121 Wayne Road	Romulus	MI	
+Anonimize	Gerrish-Higgins School District Public Library	10600 Oakwood Road	Roscommon	MI	48653
+Anonimize	Ogemaw District Library	107 West Main Street	Rose City	MI	48654
+Anonimize	Faith Johnston Memorial Library	4026 Michigan Street	Rosebush	MI	
+Anonimize	Roseville Public Library	29777 Gratiot Avenue	Roseville	MI	48066
+Anonimize	Royal Oak Public Library	222 East Eleven Mile Road	Royal Oak	MI	48068
+Anonimize	Rudyard School-Public Library	11185 West Second Street	Rudyard	MI	49780
+Anonimize	Turner Howson Elementary Library	11183 W. Turner Howson Road	Rudyard	MI	
+Anonimize	Archer A. Claytor Library	1410 North Twelfth Street	Saginaw	MI	
+Anonimize	Bridgeport Public Library	3399 Williamson Road	Saginaw	MI	48601
+Anonimize	Butman-Fish Library	1716 Hancock Street	Saginaw	MI	
+Anonimize	Hoyt Public Library	505 Janes Avenue	Saginaw	MI	
+Anonimize	Public Libraries Of Saginaw	505 Janes Avenue	Saginaw	MI	48607
+Anonimize	Rudolph C. Zauel Memorial Library	3100 North Center Road	Saginaw	MI	
+Anonimize	Ruth Brady Wickes Library	1713 Hess Avenue	Saginaw	MI	
+Anonimize	Thomas Township Library	8207 Shields Drive	Saginaw	MI	48609
+Anonimize	Saint Charles District Library	104 West Spruce Street	Saint Charles	MI	48655
+Anonimize	St. Clair Public Library	310 South Second Street	Saint Clair	MI	
+Anonimize	Saint Clair Shores Public Library	22500 Eleven Mile Road	Saint Clair Shores	MI	48081
+Anonimize	Richfield Township Public Library	1410 North Saint Helen Road	Saint Helen	MI	48656
+Anonimize	Saint Ignace Public Library	110 West Spruce Street	Saint Ignace	MI	49781
+Anonimize	Briggs Public Library	108 East Railroad Street	Saint Johns	MI	48879
+Anonimize	Maud Preston Palenske Memorial Library	500 Market Street	Saint Joseph	MI	49085
+Anonimize	Theodore A. Cutler Memorial Library	312 Michigan Avenue	Saint Louis	MI	48880
+Anonimize	Saline District Library	555 North Maple Road	Saline	MI	48176
+Anonimize	Kent District Library - Sand Lake-Nelson Township	2 Maple Street	Sand Lake	MI	49343
+Anonimize	Sandusky District Library	55 East Sanilac Avenue	Sandusky	MI	48471
+Anonimize	Saranac Public Library	61 Bridge Street	Saranac	MI	48881
+Anonimize	Bayliss Public Library	541 Library Drive	Sault Ste. Marie	MI	49783
+Anonimize	Schoolcraft Community Library	330 North Centre Street	Schoolcraft	MI	49087
+Anonimize	Scottville Library	204 East State Street	Scottville	MI	
+Anonimize	Sebewaing Township Library	41 North Center Street	Sebewaing	MI	48759
+Anonimize	Rothbury Branch Library	189 Maple Street	Shelby	MI	49455
+Anonimize	Shelby Area District Library	189 Maple Street	Shelby	MI	49455
+Anonimize	Shelby Township Library	51680 Van Dyke Avenue	Shelby Township	MI	48316
+Anonimize	Coe Township Branch Library	308 West Wright Avenue	Shepherd	MI	
+Anonimize	Sherwood Branch Library	118 Sherman Street	Sherwood	MI	
+Anonimize	Sodus Township Library	3776 Naomi Road	Sodus	MI	49126
+Anonimize	Somerset Township Library	12715 East Chicago Road	Somerset Center	MI	49282
+Anonimize	Marialyce Canonie Great Lakes Research Library	260 Dyckman Road	South Haven	MI	
+Anonimize	South Haven Memorial Library	314 Broadway Street	South Haven	MI	49090
+Anonimize	Lyon Township Public Library	27005 South Milford Road	South Lyon	MI	48165
+Anonimize	Salem-South Lyon District Library	9800 Pontiac Trail	South Lyon	MI	48178
+Anonimize	South Rockwood Branch Library	12776 Fort Street	South Rockwood	MI	
+Anonimize	John Grace Branch	21030 Indian Street	Southfield	MI	
+Anonimize	Southfield Public Library	26300 Evergreen Road	Southfield	MI	48076
+Anonimize	Southgate Veterans Memorial Library	14680 Dix-Toledo Road	Southgate	MI	
+Anonimize	Sparta Carnegie Township Library	80 North Union Street	Sparta	MI	49345
+Anonimize	Spring Arbor Branch Library	113 East Main Street	Spring Arbor	MI	
+Anonimize	Spring Lake District Library	123 East Exchange Street	Spring Lake	MI	49456
+Anonimize	Springport Branch Library	110 Mechanic Street	Springport	MI	
+Anonimize	Mary Johnston Memorial Library	114 North Court Street	Standish	MI	
+Anonimize	White Pine Library	106 East Walnut Street	Stanton	MI	48888
+Anonimize	Menominee County Library	p.o. box 128	Stephenson	MI	49887
+Anonimize	Sterling Heights Public Library	40255 Dodge Park Road	Sterling Heights	MI	48313
+Anonimize	Lincoln Township Public Library	2099 West John Beers Road	Stevensville	MI	49127
+Anonimize	Stockbridge Branch	200 Wood Street	Stockbridge	MI	
+Anonimize	Sturgis District Library	255 North Street	Sturgis	MI	49091
+Anonimize	Sunfield District Library	112 Main Street	Sunfield	MI	48890
+Anonimize	Suttons Bay-Bingham District Library	416 Front Street	Suttons Bay	MI	49682
+Anonimize	Swartz Creek-Perkins Library	8095 Civic Drive	Swartz Creek	MI	49682
+Anonimize	Tawas City Branch Library	208 North Street	Tawas City	MI	49682
+Anonimize	Taylor Community Library	12303 Pardee Road	Taylor	MI	49682
+Anonimize	Tecumseh District Library	215 North Ottawa Street	Tecumseh	MI	49286
+Anonimize	Tekonsha Township Public Library	230 South Church Street	Tekonsha	MI	49092
+Anonimize	Bedford Branch Library	6642 Lewis Ave.	Temperance	MI	49092
+Anonimize	Betsie Valley District Library	14731 Thompson Avenue	Thompsonville	MI	49683
+Anonimize	Three Oaks Township Public Library	3 North Elm Street	Three Oaks	MI	49128
+Anonimize	Three Rivers Public Library	920 West Michigan Avenue	Three Rivers	MI	49093
+Anonimize	Topinabee Public Library	1576 Straits Highway	Topinabee	MI	49791
+Anonimize	East Bay Branch Library	"1989 Three Mile Road, North"	Traverse City	MI	49791
+Anonimize	Peninsula Community Library	2735 Island View Road	Traverse City	MI	49686
+Anonimize	Traverse Area District Library	610 Woodmere Avenue	Traverse City	MI	49686
+Anonimize	Trenton Veterans Memorial Library	2790 Westfield Road	Trenton	MI	49686
+Anonimize	Troy Public Library	510 West Big Beaver Road	Troy	MI	48084
+Anonimize	Tustin Community Library	310 South Neilson Street	Tustin	MI	48084
+Anonimize	Dalton Branch Library	3175 Fifth Street	Twin Lake	MI	48084
+Anonimize	Sleeper Public Library	2236 East Main Street	Ubly	MI	48475
+Anonimize	Union Township Library	221 N. Broadway	Union City	MI	48475
+Anonimize	Columbia Township Library	6456 Center Street	Unionville	MI	48767
+Anonimize	Columbia Township Library	6643 Merry Street	Unionville	MI	48767
+Anonimize	Utica Public Library	7530 Auburn Road	Utica	MI	48317
+Anonimize	Vanderbilt Branch Library	8170 Mill Street	Vanderbilt	MI	48317
+Anonimize	Bullard Sanford Memorial Library	520 West Huron Avenue	Vassar	MI	48768
+Anonimize	Vermontville Township Library	120 East First Street	Vermontville	MI	49096
+Anonimize	Vernon District Public Library	115 East Main Street	Vernon	MI	48476
+Anonimize	Richland Township Library	8821 Third Street	Vestaburg	MI	48891
+Anonimize	Vicksburg District Library	215 South Michigan Avenue	Vicksburg	MI	49097
+Anonimize	Wakefield Public Library	401 Hancock Street	Wakefield	MI	49968
+Anonimize	Waldron District Library	107 North Main Street	Waldron	MI	49288
+Anonimize	Kent District Library - Walker	4293 Remembrance Nw	Walker	MI	49544
+Anonimize	Walkerville Public-School Library	145 East Lathrop	Walkerville	MI	49459
+Anonimize	Walled Lake City Library	1499 East West Maple Road	Walled Lake	MI	48390
+Anonimize	Crooked Tree District Library	2203 Walloon Street	Walloon Lake	MI	49796
+Anonimize	Arthur J. Miller Branch Library	5460 Arden	Warren	MI	48092
+Anonimize	Dorothy M. Busch Branch Library	23333 Ryan Road	Warren	MI	48091
+Anonimize	Maybelle Burnette Branch Library	22005 Van Dyke Avenue	Warren	MI	48089
+Anonimize	Warren Civic Center Library	One City Square	Warren	MI	48093
+Anonimize	Romeo District Library	65821 Van Dyke Avenue	Washington	MI	48095
+Anonimize	Cai Branch Library	5640 Williams Lake Road	Waterford	MI	48095
+Anonimize	Waterford Township Public Library	5168 Civic Center Drive	Waterford	MI	48329
+Anonimize	Watervliet District Library	333 North Main Street	Watervliet	MI	49098
+Anonimize	Henika District Library	149 South Main Street	Wayland	MI	49348
+Anonimize	Wayne Public Library	3737 South Wayne Road	Wayne	MI	48184
+Anonimize	Webberville Branch	115 South Main Street	Webberville	MI	48184
+Anonimize	Weidman Public Library	3453 North School Road	Weidman	MI	48184
+Anonimize	Wellston Branch Library	1451 Seaman Road	Wellston	MI	48184
+Anonimize	West Bloomfield Township Public Library	4600 Walnut Lake Road	West Bloomfield	MI	48323
+Anonimize	Westacres Branch Library	7321 Commerce Road	West Bloomfield	MI	48323
+Anonimize	West Branch District Library	119 North Fourth Street	West Branch	MI	48661
+Anonimize	Wayne County Public Library	30555 Michigan Avenue	Westland	MI	48186
+Anonimize	William P. Faust Public Library Of Westland	6123 Central City Parkway	Westland	MI	48185
+Anonimize	White Cloud Community Library	1038 Wilcox Avenue	White Cloud	MI	49349
+Anonimize	White Lake Township Library	7527 East Highland Road	White Lake	MI	48383
+Anonimize	White Pigeon Township Library	102 North Kalamazoo Street	White Pigeon	MI	49099
+Anonimize	Carp Lake Township Library	10 Cedar Street	White Pine	MI	49971
+Anonimize	White Lake Community Library	3900 White Lake Drive	Whitehall	MI	49461
+Anonimize	Northfield Township Area Library	125 Barker Road	Whitmore Lake	MI	48189
+Anonimize	Whittemore Branch Library	p.o. box 247	Whittemore	MI	48189
+Anonimize	Williamston Branch	175 East Grand River Avenue	Williamston	MI	48189
+Anonimize	Fremont Township Branch Library	2833 West Blanchard Road	Winn	MI	48189
+Anonimize	Wixom Public Library	49015 Pontiac Trail	Wixom	MI	48393
+Anonimize	Wolverine Community Library	5716 Main Street	Wolverine	MI	49799
+Anonimize	George W. Spindler Memorial Library	186 North Main Street	Woodland	MI	48897
+Anonimize	Bacon Memorial District Library	45 Vinewood Street	Wyandotte	MI	48192
+Anonimize	Kent District Library - Wyoming	"3350 Michael Avenue, Sw"	Wyoming	MI	49509
+Anonimize	Yale Public Library	2 Jones Street	Yale	MI	49509
+Anonimize	Ydl-Michigan Avenue	229 W. Michigan Avenue	Ypsilanti	MI	49509
+Anonimize	Ypsilanti District Library	5577 Whittaker Road	Ypsilanti	MI	48197
+Anonimize	Howard Miller Library	14 South Church Street	Zeeland	MI	49464

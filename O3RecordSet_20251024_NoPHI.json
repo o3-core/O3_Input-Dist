@@ -1,0 +1,1436 @@
+{
+  "O3DataSetName": "O3 Data Set From 10/24/2025",
+  "Patient_List": [
+    {
+      "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+      "Patient_MRN": "Pat01",
+      "Patient_AnonPatID": "Pat01",
+      "Patient_PatIDS": "",
+      "Patient_DateOfBirth": "1950-09-22T00:00:00",
+      "Patient_SexAtBirth": "Undisclosed",
+      "Patient_Race": "Undisclosed",
+      "Patient_Ethnicity": "Undisclosed",
+      "PatientInformation_List": [
+        {
+          "PatientInformation_GUID": "dac0c632-8b02-4d1d-8659-09929f403cd0",
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "PatientInformation_DateOfRecord": "2020-09-22T16:24:37.37",
+          "PatientInformation_AgeAtRecord": 70.0032410,
+          "PatientInformation_VitalStatus": "Alive",
+          "PatientInformation_PostalCodeDomicile": "48176",
+          "PatientInformation_AddressOfDomicile": "555 N. Maple Road Saline, MI 48176",
+          "PatientInformation_PHIDerivedMeasureItem": "",
+          "PatientInformation_PHIDerivedMeasureItemValue": "",
+          "PatientInformation_PHIDerivedMeasureItemReference": ""
+        }
+      ],
+      "DiagStaging_List": [
+        {
+          "DiagStaging_GUID": "b1e62afc-864c-46a8-907f-9bd02ad47e9c",
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "DiagStaging_DateOfRecord": "2020-08-04T00:00:00",
+          "DiagStaging_AgeAtRecord": 69.8672142,
+          "DiagStaging_StagingSystem": "",
+          "DiagStaging_ICDVersion": "",
+          "DiagStaging_ICDCode": "C50.412         ",
+          "DiagStaging_StagingTCategory": "",
+          "DiagStaging_StagingT": "T2",
+          "DiagStaging_StagingN": "pN0",
+          "DiagStaging_StagingM": "M0",
+          "DiagStaging_Overall": "Ib",
+          "DiagStagingProst_List": [],
+          "DiagStagingTreatmentOverview_List": []
+        }
+      ],
+      "PatientTreatmentOutcome_List": [],
+      "PatientEncounter_List": [],
+      "InterventionalProcedure_List": [],
+      "LabResult_List": [],
+      "SupportiveMedication_List": [],
+      "SysTherCourse_List": [],
+      "RTCourse_List": [
+        {
+          "RTCourse_GUID": "dc0c17cc-0ef1-4fa1-a70b-f8b201ad94d0",
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "RTCourse_DateOfRecord": "2020-08-25T15:15:40.53",
+          "RTCourse_AgeAtRecord": 69.9264501,
+          "RTCourse_Facility": "",
+          "RTCourse_GPSFacility": "",
+          "RTCourse_FacilityPostalCode": "",
+          "RTCourse_FacilityAddress": "",
+          "RTCourse_Name": "1 Lt Breast",
+          "RTCourse_Objective": "",
+          "RTCourse_NSessionsInCourse": 20,
+          "RTCourse_InvolvesReIrradiation": "",
+          "RTCourse_ReIrradiationDosesEvaluated": "",
+          "RTCourse_ResidenceDuringTreatment": "",
+          "RTCourse_PatientHelperBrought": "",
+          "RTCourse_DistanceToPatientPrimaryResidenceDirect": -9999,
+          "RTCourse_DistanceToPatientPrimaryResidenceDirectMethod": "",
+          "RTCourse_DistanceToPatientDomicileDirectUnits": "",
+          "RTCourse_DistanceToPatientPrimaryResidenceDriving": -9999,
+          "RTCourse_DistanceToPatientPrimaryResidenceDrivingMethod": "",
+          "RTCourse_DistanceToPatientDomicileDrivingUnits": "",
+          "RTCourseSession_List": [
+            {
+              "RTCourseSession_GUID": "26d74c4f-53ba-4276-b005-8b0415f1ceb9",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-08-25T15:15:40.53",
+              "RTCourseSession_AgeAtRecord": 69.9264501,
+              "RTCourseSession_Number": 1,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 2,
+              "RTCourseSession_NMVInSession": 2
+            },
+            {
+              "RTCourseSession_GUID": "14bd6745-788f-4dfe-9e76-6238d7511abc",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-08-26T16:14:52.107",
+              "RTCourseSession_AgeAtRecord": 69.9293005,
+              "RTCourseSession_Number": 2,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 1,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "3d754c9e-854a-4329-86ba-288de98b2502",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-08-27T16:31:43.753",
+              "RTCourseSession_AgeAtRecord": 69.9320704,
+              "RTCourseSession_Number": 3,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 1,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "6710b7d4-a46f-4187-827c-482a12565a1d",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-08-28T13:38:54.03",
+              "RTCourseSession_AgeAtRecord": 69.9344796,
+              "RTCourseSession_Number": 4,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "b049cbf1-9db1-4a3b-b46e-36a7a4126675",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-08-31T14:57:50.04",
+              "RTCourseSession_AgeAtRecord": 69.9428432,
+              "RTCourseSession_Number": 5,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "31b402e6-ab7e-4abf-bfc8-344f8684f7b8",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-01T16:44:03.56",
+              "RTCourseSession_AgeAtRecord": 69.9457831,
+              "RTCourseSession_Number": 6,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "a72990b5-9932-4840-a20d-0f563f9081d4",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-02T16:20:17.19",
+              "RTCourseSession_AgeAtRecord": 69.9484757,
+              "RTCourseSession_Number": 7,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "6635773b-4859-4d8a-b316-20fbe6855f38",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-03T15:19:25.08",
+              "RTCourseSession_AgeAtRecord": 69.9510978,
+              "RTCourseSession_Number": 8,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "3e5346e1-ded2-4b50-837e-0a8504c62017",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-07T14:50:17.62",
+              "RTCourseSession_AgeAtRecord": 69.9619939,
+              "RTCourseSession_Number": 9,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "a6e9e731-fe48-45a5-9422-61a47e4d5d57",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-08T16:51:28.947",
+              "RTCourseSession_AgeAtRecord": 69.9649621,
+              "RTCourseSession_Number": 10,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "bfa50780-55fd-4437-9511-957604f63fd3",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-09T16:47:17.787",
+              "RTCourseSession_AgeAtRecord": 69.9676920,
+              "RTCourseSession_Number": 11,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "5cbaee6c-ee03-47da-9881-16dc61ff8b48",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-10T16:42:35.703",
+              "RTCourseSession_AgeAtRecord": 69.9704209,
+              "RTCourseSession_Number": 12,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "b544d859-c8d4-477d-9d2a-484ef9e75c4c",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-11T15:14:34.16",
+              "RTCourseSession_AgeAtRecord": 69.9729914,
+              "RTCourseSession_Number": 13,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "53425f5c-5f9e-4fa0-9f20-6e6a5d34eb60",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-14T15:05:37.587",
+              "RTCourseSession_AgeAtRecord": 69.9811880,
+              "RTCourseSession_Number": 14,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "81572c30-7a3a-4b65-9743-d75d4e029cd2",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-15T16:19:54.793",
+              "RTCourseSession_AgeAtRecord": 69.9840671,
+              "RTCourseSession_Number": 15,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "91d5a2c0-5506-443d-a315-79cfc80a9ac7",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-16T16:55:36.99",
+              "RTCourseSession_AgeAtRecord": 69.9868728,
+              "RTCourseSession_Number": 16,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 1
+            },
+            {
+              "RTCourseSession_GUID": "662501c4-7c48-41c8-b7dc-3d68c403c13b",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-17T16:18:27.707",
+              "RTCourseSession_AgeAtRecord": 69.9895400,
+              "RTCourseSession_Number": 17,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 3,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "bb0b489a-654b-4b23-b9c9-660b284046b5",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-18T16:29:02.843",
+              "RTCourseSession_AgeAtRecord": 69.9922980,
+              "RTCourseSession_Number": 18,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 3,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "25ad40d2-34bb-405a-ba2d-1b1fa4ba1913",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-21T15:17:45.95",
+              "RTCourseSession_AgeAtRecord": 70.0003760,
+              "RTCourseSession_Number": 19,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 3,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "a018b911-50e3-4466-b05e-cef5e342daff",
+              "RTCourse_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+              "RTCourseSession_DateOfRecord": "2020-09-22T16:24:37.37",
+              "RTCourseSession_AgeAtRecord": 70.0032410,
+              "RTCourseSession_Number": 20,
+              "RTCourseSession_NCBCTInSession": 0,
+              "RTCourseSession_NkVInSession": 3,
+              "RTCourseSession_NMVInSession": 0
+            }
+          ],
+          "RTCourseEvent_List": [
+            {
+              "RTCourseEvent_GUID": "a7d567d4-7ee2-465a-b0cb-4263b3433d79",
+              "RTCourse_GUID": "dc0c17cc-0ef1-4fa1-a70b-f8b201ad94d0",
+              "RTCourseEvent_DateOfRecord": "2020-08-25T15:15:40.53",
+              "RTCourseEvent_AgeAtRecord": 69.9264501,
+              "RTCourseEvent_Type": "Treatment Start"
+            },
+            {
+              "RTCourseEvent_GUID": "3c933378-0e4d-42c1-9e66-45e9c487a7c6",
+              "RTCourse_GUID": "dc0c17cc-0ef1-4fa1-a70b-f8b201ad94d0",
+              "RTCourseEvent_DateOfRecord": "2020-09-22T16:24:37.37",
+              "RTCourseEvent_AgeAtRecord": 70.0032410,
+              "RTCourseEvent_Type": "Treatment Completed"
+            }
+          ],
+          "RTCourseTargetDose_List": [],
+          "RTPhase_List": [],
+          "RTTreatedPlan_List": [
+            {
+              "RTTreatedPlan_GUID": "f27e0840-d55f-4680-9117-3208c76c8f30",
+              "RTCourse_GUID": "dc0c17cc-0ef1-4fa1-a70b-f8b201ad94d0",
+              "RTTreatedPlan_Name": "1.1fL_Brst",
+              "RTTreatedPlan_Modality": "Photon",
+              "RTTreatedPlan_IsPlanSum": "False",
+              "RTTreatedPlan_IsPlanRepCumulativePhase": "False",
+              "RTTreatedPlan_IsPlanRepCumulativeCourse": "False",
+              "RTTreatedPlan_IsPlanRepCumulativeMultiCourse": "False",
+              "RTTreatedPlan_TreatedInSessions": "1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16",
+              "RTTreatedPlan_DicomPlan_UID": "x.x.x.x",
+              "RTTreatedPlan_DicomDose_UID": "x.x.x.x",
+              "RTTreatedPlan_TypeOfPatientPositioningDevice": "",
+              "RTTreatedPlanDetailsXRT": {
+                "RTTreatedPlanDetailsXRT_GUID": "7c4c1a3d-924d-43be-b750-abe90d988f09",
+                "RTTreatedPlan_GUID": "f27e0840-d55f-4680-9117-3208c76c8f30",
+                "RTTreatedPlanDetailsXRT_Technique": "3D"
+              },
+              "DVHCurve_List": [],
+              "DVHMetric_List": []
+            },
+            {
+              "RTTreatedPlan_GUID": "e78cc6b3-0f3b-423c-b92a-5154e7f1d9ab",
+              "RTCourse_GUID": "dc0c17cc-0ef1-4fa1-a70b-f8b201ad94d0",
+              "RTTreatedPlan_Name": "1.2tL_Tbed",
+              "RTTreatedPlan_Modality": "Photon",
+              "RTTreatedPlan_IsPlanSum": "False",
+              "RTTreatedPlan_IsPlanRepCumulativePhase": "False",
+              "RTTreatedPlan_IsPlanRepCumulativeCourse": "False",
+              "RTTreatedPlan_IsPlanRepCumulativeMultiCourse": "False",
+              "RTTreatedPlan_TreatedInSessions": "17;18;19;20",
+              "RTTreatedPlan_DicomPlan_UID": "x.x.x.x",
+              "RTTreatedPlan_DicomDose_UID": "x.x.x.x",
+              "RTTreatedPlan_TypeOfPatientPositioningDevice": "",
+              "RTTreatedPlanDetailsXRT": {
+                "RTTreatedPlanDetailsXRT_GUID": "eb8a5897-bad7-4ef4-bda0-c429f34a4513",
+                "RTTreatedPlan_GUID": "e78cc6b3-0f3b-423c-b92a-5154e7f1d9ab",
+                "RTTreatedPlanDetailsXRT_Technique": "3D"
+              },
+              "DVHCurve_List": [],
+              "DVHMetric_List": []
+            },
+            {
+              "RTTreatedPlan_GUID": "b4eb92bf-2cdd-4aa3-9255-64518f18e572",
+              "RTCourse_GUID": "dc0c17cc-0ef1-4fa1-a70b-f8b201ad94d0",
+              "RTTreatedPlan_Name": "CourseCumulativePlanSum",
+              "RTTreatedPlan_Modality": "",
+              "RTTreatedPlan_IsPlanSum": "True",
+              "RTTreatedPlan_IsPlanRepCumulativePhase": "False",
+              "RTTreatedPlan_IsPlanRepCumulativeCourse": "True",
+              "RTTreatedPlan_IsPlanRepCumulativeMultiCourse": "False",
+              "RTTreatedPlan_TreatedInSessions": "",
+              "RTTreatedPlan_DicomPlan_UID": "x.x.x.x",
+              "RTTreatedPlan_DicomDose_UID": "x.x.x.x",
+              "RTTreatedPlan_TypeOfPatientPositioningDevice": "",
+              "RTTreatedPlanDetailsXRT": {
+                "RTTreatedPlanDetailsXRT_GUID": null,
+                "RTTreatedPlan_GUID": null,
+                "RTTreatedPlanDetailsXRT_Technique": null
+              },
+              "DVHCurve_List": [],
+              "DVHMetric_List": []
+            }
+          ],
+          "ReirradiationEvaluation_List": []
+        }
+      ],
+      "Image_List": [
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "ab88b757-0d55-4885-b2ef-a275035ce8d4",
+          "Image_DateOfRecord": "2020-08-13T14:50:32.78",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "CHEST",
+          "Image_Type": "Computed Tomography"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "4a3a951e-6c96-4cca-afda-3d0e32b1ee6b",
+          "Image_DateOfRecord": "2020-08-26T16:10:32.37",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "8f70e433-296f-40e8-b92a-d794e68c1ef4",
+          "Image_DateOfRecord": "2020-08-27T16:27:19.56",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "f38b7e88-2344-4603-a0e0-4a2846e8b389",
+          "Image_DateOfRecord": "2020-09-17T16:10:19.623",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "72a23abc-6b07-4ead-a52a-a78acc37e593",
+          "Image_DateOfRecord": "2020-09-17T16:11:15.257",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "6320fe78-a3c2-4ca3-be69-137f6fcded0b",
+          "Image_DateOfRecord": "2020-09-17T16:13:30.41",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "92d51b8e-2cd1-4917-8d52-f7a2a6f9e483",
+          "Image_DateOfRecord": "2020-09-18T16:23:15.007",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "c13cbd50-7a83-43ae-acee-05464c568a02",
+          "Image_DateOfRecord": "2020-09-18T16:24:02.31",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "5a57a1c2-966d-4e1c-bf88-ca223542741a",
+          "Image_DateOfRecord": "2020-09-18T16:25:57.807",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "07ed6e9a-cedf-437d-b422-9b76a7a6df45",
+          "Image_DateOfRecord": "2020-09-21T15:11:10.43",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "ee752d70-d7e5-407e-b69a-03aeb916ed85",
+          "Image_DateOfRecord": "2020-09-21T15:11:50.24",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "8edc0d4c-7418-4801-b12b-5c5bd7a2eeba",
+          "Image_DateOfRecord": "2020-09-21T15:13:50.947",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "50a86446-ceae-4d2a-8261-b164fa5d9df6",
+          "Image_DateOfRecord": "2020-09-22T16:18:08.357",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "bc7881fa-9e8a-4ea0-9b80-492aff954f1e",
+          "Image_DateOfRecord": "2020-09-22T16:18:46.263",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "87dba13f-4636-4120-9e8e-870166514711",
+          "Image_DateOfRecord": "2020-09-22T16:21:12.707",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-MV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "220b1d33-3cb0-4ccc-bd8f-aa47441bc332",
+          "Image_DateOfRecord": "2020-08-26T16:11:31.553",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "0a92733f-2efb-4ff2-a84b-d5b1fda14135",
+          "Image_DateOfRecord": "2020-08-27T16:28:09.57",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "be04ca49-45bf-4cf3-a9e4-8432c4b968fa",
+          "Image_DateOfRecord": "2020-08-28T13:35:56.697",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "6de7bb8c-af13-4741-8140-23ea35c9e862",
+          "Image_DateOfRecord": "2020-08-31T14:52:51.577",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "bc00d411-cec8-44aa-8b99-93abd95f0825",
+          "Image_DateOfRecord": "2020-09-01T16:39:51.42",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "120bcd30-67fa-4c7b-ba24-c25eaf5c734b",
+          "Image_DateOfRecord": "2020-09-02T16:16:29.367",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "4096c874-7671-4674-a240-f0527408add9",
+          "Image_DateOfRecord": "2020-09-03T15:15:28.973",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "17f88c1b-3e6c-4503-acf0-54c6258baa50",
+          "Image_DateOfRecord": "2020-09-07T14:46:59.827",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "43fdf520-ab33-4591-90f8-f90b9e479125",
+          "Image_DateOfRecord": "2020-09-08T16:47:12.043",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "b2552deb-a52c-4069-843b-23ec763d3f2a",
+          "Image_DateOfRecord": "2020-09-09T16:44:05.527",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "b2f374a3-4a76-4a49-9fa0-bb2c4b95b6fd",
+          "Image_DateOfRecord": "2020-09-10T16:32:34.75",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "3437ac5f-f050-446d-9a91-915cde7f776f",
+          "Image_DateOfRecord": "2020-09-11T15:10:51.187",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "d9308e9d-43de-4bc0-9529-50b006fd614d",
+          "Image_DateOfRecord": "2020-09-14T15:02:35.147",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "50b572f4-c055-4bcb-9c55-372012b4050f",
+          "Image_DateOfRecord": "2020-09-15T16:15:28.63",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        },
+        {
+          "Patient_GUID": "91ae1d51-0a0d-469c-b826-a38b21c4e29e",
+          "Image_GUID": "5162a38f-872e-48aa-ae56-5a629fdf6b1c",
+          "Image_DateOfRecord": "2020-09-16T16:52:10.403",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Fluoroscopy-kV"
+        }
+      ]
+    },
+    {
+      "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+      "Patient_MRN": "Pat02",
+      "Patient_AnonPatID": "Pat02",
+      "Patient_PatIDS": "",
+      "Patient_DateOfBirth": "1966-11-22T00:00:00",
+      "Patient_SexAtBirth": "Undisclosed",
+      "Patient_Race": "Undisclosed",
+      "Patient_Ethnicity": "Undisclosed",
+      "PatientInformation_List": [
+        {
+          "PatientInformation_GUID": "ece04b89-3842-4bd2-9577-c534eed7d8ea",
+          "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+          "PatientInformation_DateOfRecord": "2020-10-20T08:16:31.467",
+          "PatientInformation_AgeAtRecord": 53.9119639,
+          "PatientInformation_VitalStatus": "Alive",
+          "PatientInformation_PostalCodeDomicile": "48176",
+          "PatientInformation_AddressOfDomicile": "555 N. Maple Road Saline, MI 48176",
+          "PatientInformation_PHIDerivedMeasureItem": "",
+          "PatientInformation_PHIDerivedMeasureItemValue": "",
+          "PatientInformation_PHIDerivedMeasureItemReference": ""
+        }
+      ],
+      "DiagStaging_List": [
+        {
+          "DiagStaging_GUID": "0a4ec124-3f53-44ba-a0dc-cff758c0c790",
+          "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+          "DiagStaging_DateOfRecord": "2020-08-11T00:00:00",
+          "DiagStaging_AgeAtRecord": 53.7193703,
+          "DiagStaging_StagingSystem": "",
+          "DiagStaging_ICDVersion": "",
+          "DiagStaging_ICDCode": "C61             ",
+          "DiagStaging_StagingTCategory": "",
+          "DiagStaging_StagingT": "T1c",
+          "DiagStaging_StagingN": "N0",
+          "DiagStaging_StagingM": "M0",
+          "DiagStaging_Overall": "IIb",
+          "DiagStagingProst_List": [],
+          "DiagStagingTreatmentOverview_List": []
+        }
+      ],
+      "PatientTreatmentOutcome_List": [],
+      "PatientEncounter_List": [],
+      "InterventionalProcedure_List": [],
+      "LabResult_List": [],
+      "SupportiveMedication_List": [],
+      "SysTherCourse_List": [],
+      "RTCourse_List": [
+        {
+          "RTCourse_GUID": "e65e5995-ff04-4b78-89a8-0c98b0ba5169",
+          "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+          "RTCourse_DateOfRecord": "2020-10-08T12:20:05.323",
+          "RTCourse_AgeAtRecord": 53.8795728,
+          "RTCourse_Facility": "",
+          "RTCourse_GPSFacility": "",
+          "RTCourse_FacilityPostalCode": "",
+          "RTCourse_FacilityAddress": "",
+          "RTCourse_Name": "1 PROSTATE",
+          "RTCourse_Objective": "",
+          "RTCourse_NSessionsInCourse": 5,
+          "RTCourse_InvolvesReIrradiation": "",
+          "RTCourse_ReIrradiationDosesEvaluated": "",
+          "RTCourse_ResidenceDuringTreatment": "",
+          "RTCourse_PatientHelperBrought": "",
+          "RTCourse_DistanceToPatientPrimaryResidenceDirect": -9999,
+          "RTCourse_DistanceToPatientPrimaryResidenceDirectMethod": "",
+          "RTCourse_DistanceToPatientDomicileDirectUnits": "",
+          "RTCourse_DistanceToPatientPrimaryResidenceDriving": -9999,
+          "RTCourse_DistanceToPatientPrimaryResidenceDrivingMethod": "",
+          "RTCourse_DistanceToPatientDomicileDrivingUnits": "",
+          "RTCourseSession_List": [
+            {
+              "RTCourseSession_GUID": "0b5629a1-f61b-4428-8404-4b5fa616e8cd",
+              "RTCourse_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+              "RTCourseSession_DateOfRecord": "2020-10-08T12:20:05.323",
+              "RTCourseSession_AgeAtRecord": 53.8795728,
+              "RTCourseSession_Number": 1,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "68db5020-b769-4f11-90a4-cf30bbb961ce",
+              "RTCourse_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+              "RTCourseSession_DateOfRecord": "2020-10-12T08:20:19.497",
+              "RTCourseSession_AgeAtRecord": 53.8900683,
+              "RTCourseSession_Number": 2,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "e6f10613-aaa4-49a1-ab97-e32e087bcb6e",
+              "RTCourse_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+              "RTCourseSession_DateOfRecord": "2020-10-14T08:16:07.56",
+              "RTCourseSession_AgeAtRecord": 53.8955360,
+              "RTCourseSession_Number": 3,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "9a70c604-8daa-4548-a671-abb096942eec",
+              "RTCourse_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+              "RTCourseSession_DateOfRecord": "2020-10-16T07:10:43.62",
+              "RTCourseSession_AgeAtRecord": 53.9008874,
+              "RTCourseSession_Number": 4,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "bbd45d1e-dc71-4b6d-b5d1-4ab0fb43bad9",
+              "RTCourse_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+              "RTCourseSession_DateOfRecord": "2020-10-20T08:16:31.467",
+              "RTCourseSession_AgeAtRecord": 53.9119639,
+              "RTCourseSession_Number": 5,
+              "RTCourseSession_NCBCTInSession": 2,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            }
+          ],
+          "RTCourseEvent_List": [
+            {
+              "RTCourseEvent_GUID": "e39a36d2-ab77-4bb0-b817-fa3124ce880d",
+              "RTCourse_GUID": "e65e5995-ff04-4b78-89a8-0c98b0ba5169",
+              "RTCourseEvent_DateOfRecord": "2020-10-08T12:20:05.323",
+              "RTCourseEvent_AgeAtRecord": 53.8795728,
+              "RTCourseEvent_Type": "Treatment Start"
+            },
+            {
+              "RTCourseEvent_GUID": "130d71bd-a38e-4869-8ecb-3c536a135626",
+              "RTCourse_GUID": "e65e5995-ff04-4b78-89a8-0c98b0ba5169",
+              "RTCourseEvent_DateOfRecord": "2020-10-20T08:16:31.467",
+              "RTCourseEvent_AgeAtRecord": 53.9119639,
+              "RTCourseEvent_Type": "Treatment Completed"
+            }
+          ],
+          "RTCourseTargetDose_List": [],
+          "RTPhase_List": [],
+          "RTTreatedPlan_List": [
+            {
+              "RTTreatedPlan_GUID": "bf43a4ee-ab4d-415a-976b-9ecf99554a96",
+              "RTCourse_GUID": "e65e5995-ff04-4b78-89a8-0c98b0ba5169",
+              "RTTreatedPlan_Name": "1.1v PRST",
+              "RTTreatedPlan_Modality": "Photon",
+              "RTTreatedPlan_IsPlanSum": "False",
+              "RTTreatedPlan_IsPlanRepCumulativePhase": "False",
+              "RTTreatedPlan_IsPlanRepCumulativeCourse": "True",
+              "RTTreatedPlan_IsPlanRepCumulativeMultiCourse": "False",
+              "RTTreatedPlan_TreatedInSessions": "1;2;3;4;5",
+              "RTTreatedPlan_DicomPlan_UID": "x.x.x.x",
+              "RTTreatedPlan_DicomDose_UID": "x.x.x.x",
+              "RTTreatedPlan_TypeOfPatientPositioningDevice": "",
+              "RTTreatedPlanDetailsXRT": {
+                "RTTreatedPlanDetailsXRT_GUID": "5f766994-27bb-46ee-ac95-9c0572255722",
+                "RTTreatedPlan_GUID": "bf43a4ee-ab4d-415a-976b-9ecf99554a96",
+                "RTTreatedPlanDetailsXRT_Technique": "VMAT"
+              },
+              "DVHCurve_List": [],
+              "DVHMetric_List": []
+            }
+          ],
+          "ReirradiationEvaluation_List": []
+        }
+      ],
+      "Image_List": [
+        {
+          "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+          "Image_GUID": "b847edb0-31af-42cc-830b-a06f25d75c1b",
+          "Image_DateOfRecord": "2020-09-23T10:34:29.07",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "PELVIS",
+          "Image_Type": "Computed Tomography"
+        },
+        {
+          "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+          "Image_GUID": "cee3d0c9-6ac2-4493-9f90-52424eb9bbd0",
+          "Image_DateOfRecord": "2020-10-08T12:06:58.867",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+          "Image_GUID": "52ba07c9-c293-47e1-b841-b31cb3022980",
+          "Image_DateOfRecord": "2020-10-12T08:08:16.88",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+          "Image_GUID": "1f4755ee-b0f1-47be-a661-bcd40418ba52",
+          "Image_DateOfRecord": "2020-10-14T08:05:36.923",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+          "Image_GUID": "337d4d1a-5486-4b63-805b-411d2ed2e720",
+          "Image_DateOfRecord": "2020-10-16T07:03:29.483",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+          "Image_GUID": "bd90da34-4a54-4e96-9583-e0b569822efc",
+          "Image_DateOfRecord": "2020-10-20T08:01:38.137",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "7c2bb3be-7ff8-45e9-830f-f162786eaea2",
+          "Image_GUID": "57b59e74-f466-4d3b-ba50-86b1a93d2729",
+          "Image_DateOfRecord": "2020-10-20T08:08:50.827",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        }
+      ]
+    },
+    {
+      "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+      "Patient_MRN": "Pat03",
+      "Patient_AnonPatID": "Pat03",
+      "Patient_PatIDS": "",
+      "Patient_DateOfBirth": "1958-11-13T00:00:00",
+      "Patient_SexAtBirth": "Undisclosed",
+      "Patient_Race": "Undisclosed",
+      "Patient_Ethnicity": "Undisclosed",
+      "PatientInformation_List": [
+        {
+          "PatientInformation_GUID": "b444180d-5fec-4ef3-a6c6-0e561de8ec37",
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "PatientInformation_DateOfRecord": "2018-05-25T10:36:46.47",
+          "PatientInformation_AgeAtRecord": 59.5303004,
+          "PatientInformation_VitalStatus": "Alive",
+          "PatientInformation_PostalCodeDomicile": "48176",
+          "PatientInformation_AddressOfDomicile": "555 N. Maple Road Saline, MI 48176",
+          "PatientInformation_PHIDerivedMeasureItem": "",
+          "PatientInformation_PHIDerivedMeasureItemValue": "",
+          "PatientInformation_PHIDerivedMeasureItemReference": ""
+        }
+      ],
+      "DiagStaging_List": [
+        {
+          "DiagStaging_GUID": "9918f8fc-3b0e-445f-ac08-3be8b68521d6",
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "DiagStaging_DateOfRecord": "2017-11-15T00:00:00",
+          "DiagStaging_AgeAtRecord": 59.0061602,
+          "DiagStaging_StagingSystem": "",
+          "DiagStaging_ICDVersion": "",
+          "DiagStaging_ICDCode": "C61             ",
+          "DiagStaging_StagingTCategory": "",
+          "DiagStaging_StagingT": "T1c",
+          "DiagStaging_StagingN": "N0",
+          "DiagStaging_StagingM": "M0",
+          "DiagStaging_Overall": "IIb",
+          "DiagStagingProst_List": [],
+          "DiagStagingTreatmentOverview_List": []
+        }
+      ],
+      "PatientTreatmentOutcome_List": [],
+      "PatientEncounter_List": [],
+      "InterventionalProcedure_List": [],
+      "LabResult_List": [],
+      "SupportiveMedication_List": [],
+      "SysTherCourse_List": [],
+      "RTCourse_List": [
+        {
+          "RTCourse_GUID": "15db3cc8-5d74-4330-af08-c2ef2aabe021",
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "RTCourse_DateOfRecord": "2018-04-30T13:37:05.247",
+          "RTCourse_AgeAtRecord": 59.4621969,
+          "RTCourse_Facility": "",
+          "RTCourse_GPSFacility": "",
+          "RTCourse_FacilityPostalCode": "",
+          "RTCourse_FacilityAddress": "",
+          "RTCourse_Name": "1 PROST\u002BSV",
+          "RTCourse_Objective": "",
+          "RTCourse_NSessionsInCourse": 20,
+          "RTCourse_InvolvesReIrradiation": "",
+          "RTCourse_ReIrradiationDosesEvaluated": "",
+          "RTCourse_ResidenceDuringTreatment": "",
+          "RTCourse_PatientHelperBrought": "",
+          "RTCourse_DistanceToPatientPrimaryResidenceDirect": -9999,
+          "RTCourse_DistanceToPatientPrimaryResidenceDirectMethod": "",
+          "RTCourse_DistanceToPatientDomicileDirectUnits": "",
+          "RTCourse_DistanceToPatientPrimaryResidenceDriving": -9999,
+          "RTCourse_DistanceToPatientPrimaryResidenceDrivingMethod": "",
+          "RTCourse_DistanceToPatientDomicileDrivingUnits": "",
+          "RTCourseSession_List": [
+            {
+              "RTCourseSession_GUID": "2f64c7b7-6893-4229-8cb6-638a1578848b",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-04-30T13:37:05.247",
+              "RTCourseSession_AgeAtRecord": 59.4621969,
+              "RTCourseSession_Number": 1,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "829406e0-7a82-48fa-b42c-e2203b937baa",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-01T14:22:57.117",
+              "RTCourseSession_AgeAtRecord": 59.4650220,
+              "RTCourseSession_Number": 2,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "bfa5e274-5174-4e69-a85a-10718075c5ee",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-02T14:22:06.577",
+              "RTCourseSession_AgeAtRecord": 59.4677582,
+              "RTCourseSession_Number": 3,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "afa57184-2781-4706-b714-80fa0549face",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-03T14:24:33.2",
+              "RTCourseSession_AgeAtRecord": 59.4705007,
+              "RTCourseSession_Number": 4,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "acdc35e3-9541-4219-8b60-13d771de1c72",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-04T14:24:44.75",
+              "RTCourseSession_AgeAtRecord": 59.4732389,
+              "RTCourseSession_Number": 5,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "6cca64b2-f633-42c2-8ef3-c366940d1a19",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-07T14:19:29.287",
+              "RTCourseSession_AgeAtRecord": 59.4814425,
+              "RTCourseSession_Number": 6,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "d4e38158-c65a-4156-ad4d-db2b7dbfd504",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-08T14:27:32.12",
+              "RTCourseSession_AgeAtRecord": 59.4841956,
+              "RTCourseSession_Number": 7,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "291af5bc-98f5-4bd4-8e38-bc361bbf2205",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-09T14:23:52.133",
+              "RTCourseSession_AgeAtRecord": 59.4869265,
+              "RTCourseSession_Number": 8,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "4457ac9f-f89a-4e29-965b-822ea6c270df",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-10T14:18:27.94",
+              "RTCourseSession_AgeAtRecord": 59.4896541,
+              "RTCourseSession_Number": 9,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "af59c600-6b93-4d95-ab71-8f9de5a02693",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-11T14:22:41.07",
+              "RTCourseSession_AgeAtRecord": 59.4924000,
+              "RTCourseSession_Number": 10,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "f8b3c6f9-8e56-4ff1-b4dd-d0b0e2f32644",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-14T14:26:14.25",
+              "RTCourseSession_AgeAtRecord": 59.5006203,
+              "RTCourseSession_Number": 11,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "b830a445-36f4-4d3e-ac4f-32a00f570ac4",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-15T14:17:30.743",
+              "RTCourseSession_AgeAtRecord": 59.5033415,
+              "RTCourseSession_Number": 12,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "9f23f8a2-e98c-43fb-8b73-68adf81a67c5",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-16T14:22:40.5",
+              "RTCourseSession_AgeAtRecord": 59.5060892,
+              "RTCourseSession_Number": 13,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "704887b8-3c37-48c6-95c4-9ab82f31844e",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-17T14:23:22.92",
+              "RTCourseSession_AgeAtRecord": 59.5088284,
+              "RTCourseSession_Number": 14,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "7de325fd-2b91-4cf7-9f58-e7e26c1e5dd1",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-18T14:31:04.04",
+              "RTCourseSession_AgeAtRecord": 59.5115809,
+              "RTCourseSession_Number": 15,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "7d597dea-626a-4bc9-bfb6-85d7b848add6",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-21T14:22:25.273",
+              "RTCourseSession_AgeAtRecord": 59.5197780,
+              "RTCourseSession_Number": 16,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "737f9a96-56c4-4c6f-9cd2-673bd8a2a35f",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-22T14:26:40.743",
+              "RTCourseSession_AgeAtRecord": 59.5225239,
+              "RTCourseSession_Number": 17,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "ed53a5a6-0089-4314-9a44-253639b4dfec",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-23T14:22:52.403",
+              "RTCourseSession_AgeAtRecord": 59.5252545,
+              "RTCourseSession_Number": 18,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "e897882d-98f1-4043-b1f4-d75767bd2a88",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-24T14:21:21.727",
+              "RTCourseSession_AgeAtRecord": 59.5279895,
+              "RTCourseSession_Number": 19,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            },
+            {
+              "RTCourseSession_GUID": "19aadee1-88cd-46e8-a2c1-ec6631cd3ed9",
+              "RTCourse_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+              "RTCourseSession_DateOfRecord": "2018-05-25T10:36:46.47",
+              "RTCourseSession_AgeAtRecord": 59.5303004,
+              "RTCourseSession_Number": 20,
+              "RTCourseSession_NCBCTInSession": 1,
+              "RTCourseSession_NkVInSession": 0,
+              "RTCourseSession_NMVInSession": 0
+            }
+          ],
+          "RTCourseEvent_List": [
+            {
+              "RTCourseEvent_GUID": "51ad007a-03ce-43cd-a9bc-f57e16e48178",
+              "RTCourse_GUID": "15db3cc8-5d74-4330-af08-c2ef2aabe021",
+              "RTCourseEvent_DateOfRecord": "2018-04-30T13:37:05.247",
+              "RTCourseEvent_AgeAtRecord": 59.4621969,
+              "RTCourseEvent_Type": "Treatment Start"
+            },
+            {
+              "RTCourseEvent_GUID": "31398eb4-5277-4948-8da3-f0c50bf0f0c5",
+              "RTCourse_GUID": "15db3cc8-5d74-4330-af08-c2ef2aabe021",
+              "RTCourseEvent_DateOfRecord": "2018-05-25T10:36:46.47",
+              "RTCourseEvent_AgeAtRecord": 59.5303004,
+              "RTCourseEvent_Type": "Treatment Completed"
+            }
+          ],
+          "RTCourseTargetDose_List": [],
+          "RTPhase_List": [],
+          "RTTreatedPlan_List": [
+            {
+              "RTTreatedPlan_GUID": "fb6db996-8c00-436e-91a2-eea15330a677",
+              "RTCourse_GUID": "15db3cc8-5d74-4330-af08-c2ef2aabe021",
+              "RTTreatedPlan_Name": "1.1v P\u002BSV",
+              "RTTreatedPlan_Modality": "Photon",
+              "RTTreatedPlan_IsPlanSum": "False",
+              "RTTreatedPlan_IsPlanRepCumulativePhase": "False",
+              "RTTreatedPlan_IsPlanRepCumulativeCourse": "True",
+              "RTTreatedPlan_IsPlanRepCumulativeMultiCourse": "False",
+              "RTTreatedPlan_TreatedInSessions": "1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20",
+              "RTTreatedPlan_DicomPlan_UID": "x.x.x.x",
+              "RTTreatedPlan_DicomDose_UID": "x.x.x.x",
+              "RTTreatedPlan_TypeOfPatientPositioningDevice": "",
+              "RTTreatedPlanDetailsXRT": {
+                "RTTreatedPlanDetailsXRT_GUID": "10037cce-b2dd-479f-a0f9-41cd6a148699",
+                "RTTreatedPlan_GUID": "fb6db996-8c00-436e-91a2-eea15330a677",
+                "RTTreatedPlanDetailsXRT_Technique": "VMAT"
+              },
+              "DVHCurve_List": [],
+              "DVHMetric_List": []
+            }
+          ],
+          "ReirradiationEvaluation_List": []
+        }
+      ],
+      "Image_List": [
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "e8359b86-144a-435d-9daf-1e341fdabb7f",
+          "Image_DateOfRecord": "2018-04-18T12:36:36.973",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "PELVIS",
+          "Image_Type": "Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "66feb94c-22f9-4d9d-91fc-6635fb530e72",
+          "Image_DateOfRecord": "2018-04-30T13:28:37.09",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "684a6201-0deb-46e8-a58a-4ab4649cb101",
+          "Image_DateOfRecord": "2018-05-01T14:15:44.77",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "b7a723ba-6962-4686-909d-88659aa75702",
+          "Image_DateOfRecord": "2018-05-02T14:15:52.117",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "e6ffaa9c-5483-4afc-ad44-f75c8ea59f97",
+          "Image_DateOfRecord": "2018-05-03T14:17:01.523",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "233d8330-8c8e-4565-ab56-16155d3e952e",
+          "Image_DateOfRecord": "2018-05-04T14:18:44.67",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "61946e5e-f9d2-4313-9797-e1cb21a483fe",
+          "Image_DateOfRecord": "2018-05-07T14:13:08.27",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "4ac59f90-50df-4a98-b3af-67b24a4b5cde",
+          "Image_DateOfRecord": "2018-05-08T13:20:24.04",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "a20edd4d-2e51-4f13-b0b7-c27176676ac0",
+          "Image_DateOfRecord": "2018-05-09T14:16:46.887",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "b789edfb-340f-4fea-9120-1c66054f5a6f",
+          "Image_DateOfRecord": "2018-05-10T14:14:26.457",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "3b025648-50ec-471e-8f71-3489562bae56",
+          "Image_DateOfRecord": "2018-05-11T14:16:41.383",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "097ce6cc-47a0-4f34-9e8b-dad742ff250f",
+          "Image_DateOfRecord": "2018-05-14T14:19:57.01",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "1e030223-b74f-410c-a135-46e28e18e4f0",
+          "Image_DateOfRecord": "2018-05-15T14:11:11.293",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "2a60ea60-08a3-4ba7-8508-8d65da585fe9",
+          "Image_DateOfRecord": "2018-05-16T14:16:28.33",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "f143b6fd-61f1-4ea4-b5ac-abb9c213bc41",
+          "Image_DateOfRecord": "2018-05-17T14:16:45.433",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "27b380c0-9b26-4f78-8544-9058d32b95ba",
+          "Image_DateOfRecord": "2018-05-18T14:27:05.74",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "feed8751-a575-43c9-8732-97f27677f250",
+          "Image_DateOfRecord": "2018-05-21T14:16:23.137",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "bf8796e1-de39-4bf0-a5a2-e11e1f09e7da",
+          "Image_DateOfRecord": "2018-05-22T14:20:36.363",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "406d2c40-2168-4760-87c5-2a9f2e701a37",
+          "Image_DateOfRecord": "2018-05-23T14:16:13.04",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "b3cf2d41-7140-43ba-a6e9-957eb7a7d47f",
+          "Image_DateOfRecord": "2018-05-24T14:14:06.383",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        },
+        {
+          "Patient_GUID": "1273b645-a223-4c69-b3f3-6b4f68ac78e7",
+          "Image_GUID": "e264e0c4-28be-4631-aa21-e6c0f41dc83f",
+          "Image_DateOfRecord": "2018-05-25T10:31:21.587",
+          "Image_AgeAtRecord": 0,
+          "Image_DICOMSeriesUID": "x.x.x.x",
+          "Image_PatientOrientation": "HFS",
+          "Image_BodyStructure": "",
+          "Image_Type": "Cone Beam Computed Tomography"
+        }
+      ]
+    }
+  ],
+  "HCO_Site_List": [],
+  "Relationship_List": []
+}
